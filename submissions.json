@@ -572,6 +572,17 @@
     ]
   },
   {
+    "id": 1941,
+    "title": "Check if All Characters Have Equal Number of Occurrences",
+    "title_slug": "check-if-all-characters-have-equal-number-of-occurrences",
+    "difficulty": "Easy",
+    "skills": [
+      "Counting",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 2127,
     "title": "Maximum Employees to Be Invited to a Meeting",
     "title_slug": "maximum-employees-to-be-invited-to-a-meeting",
