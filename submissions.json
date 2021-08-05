@@ -263,6 +263,18 @@
     ]
   },
   {
+    "id": 877,
+    "title": "Stone Game",
+    "title_slug": "stone-game",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Game Theory",
+      "Math"
+    ]
+  },
+  {
     "id": 938,
     "title": "Range Sum of BST",
     "title_slug": "range-sum-of-bst",
