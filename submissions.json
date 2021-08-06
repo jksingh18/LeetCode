@@ -10,6 +10,15 @@
     ]
   },
   {
+    "id": 7,
+    "title": "Reverse Integer",
+    "title_slug": "reverse-integer",
+    "difficulty": "Medium",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 11,
     "title": "Container With Most Water",
     "title_slug": "container-with-most-water",
