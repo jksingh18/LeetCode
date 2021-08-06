@@ -139,6 +139,16 @@
     ]
   },
   {
+    "id": 429,
+    "title": "N-ary Tree Level Order Traversal",
+    "title_slug": "n-ary-tree-level-order-traversal",
+    "difficulty": "Medium",
+    "skills": [
+      "Breadth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 470,
     "title": "Implement Rand10() Using Rand7()",
     "title_slug": "implement-rand10-using-rand7",
