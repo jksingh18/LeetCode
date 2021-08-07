@@ -8,6 +8,7 @@
 | 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | Medium | `Math` |
 | 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | Medium | `Array` `Greedy` `Two Pointers` |
 | 0015 | [3Sum](https://leetcode.com/problems/3sum) | Medium | `Array` `Sorting` `Two Pointers` |
+| 0016 | [3Sum Closest](https://leetcode.com/problems/3sum-closest) | Medium | `Array` `Sorting` `Two Pointers` |
 | 0100 | [Same Tree](https://leetcode.com/problems/same-tree) | Easy | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | Easy | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 0110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | Easy | `Binary Tree` `Depth-First Search` `Tree` |

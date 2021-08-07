@@ -41,6 +41,17 @@
     ]
   },
   {
+    "id": 16,
+    "title": "3Sum Closest",
+    "title_slug": "3sum-closest",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 100,
     "title": "Same Tree",
     "title_slug": "same-tree",
