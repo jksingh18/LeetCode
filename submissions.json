@@ -163,6 +163,16 @@
     ]
   },
   {
+    "id": 132,
+    "title": "Palindrome Partitioning II",
+    "title_slug": "palindrome-partitioning-ii",
+    "difficulty": "Hard",
+    "skills": [
+      "Dynamic Programming",
+      "String"
+    ]
+  },
+  {
     "id": 200,
     "title": "Number of Islands",
     "title_slug": "number-of-islands",
