@@ -357,6 +357,22 @@
     ]
   },
   {
+    "id": 912,
+    "title": "Sort an Array",
+    "title_slug": "sort-an-array",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Bucket Sort",
+      "Counting Sort",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort",
+      "Radix Sort",
+      "Sorting"
+    ]
+  },
+  {
     "id": 938,
     "title": "Range Sum of BST",
     "title_slug": "range-sum-of-bst",
