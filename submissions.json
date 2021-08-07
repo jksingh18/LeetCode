@@ -30,6 +30,17 @@
     ]
   },
   {
+    "id": 15,
+    "title": "3Sum",
+    "title_slug": "3sum",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 100,
     "title": "Same Tree",
     "title_slug": "same-tree",
