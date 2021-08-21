@@ -317,6 +317,16 @@
     ]
   },
   {
+    "id": 704,
+    "title": "Binary Search",
+    "title_slug": "binary-search",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
     "id": 733,
     "title": "Flood Fill",
     "title_slug": "flood-fill",
