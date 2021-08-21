@@ -103,6 +103,17 @@
     ]
   },
   {
+    "id": 53,
+    "title": "Maximum Subarray",
+    "title_slug": "maximum-subarray",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 100,
     "title": "Same Tree",
     "title_slug": "same-tree",
