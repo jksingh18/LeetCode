@@ -21,6 +21,7 @@
 | 0124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) | Hard | `Binary Tree` `Depth-First Search` `Dynamic Programming` `Tree` |
 | 0130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions) | Medium | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` `Union Find` |
 | 0132 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii) | Hard | `Dynamic Programming` `String` |
+| 0144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | Easy | `Binary Tree` `Depth-First Search` `Stack` `Tree` |
 | 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | Medium | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` `Union Find` |
 | 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | Easy | `Linked List` `Recursion` |
 | 0232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | Easy | `Design` `Queue` `Stack` |
