@@ -139,6 +139,18 @@
     ]
   },
   {
+    "id": 98,
+    "title": "Validate Binary Search Tree",
+    "title_slug": "validate-binary-search-tree",
+    "difficulty": "Medium",
+    "skills": [
+      "Binary Search Tree",
+      "Binary Tree",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 100,
     "title": "Same Tree",
     "title_slug": "same-tree",
