@@ -126,6 +126,19 @@
     ]
   },
   {
+    "id": 95,
+    "title": "Unique Binary Search Trees II",
+    "title_slug": "unique-binary-search-trees-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Backtracking",
+      "Binary Search Tree",
+      "Binary Tree",
+      "Dynamic Programming",
+      "Tree"
+    ]
+  },
+  {
     "id": 100,
     "title": "Same Tree",
     "title_slug": "same-tree",
