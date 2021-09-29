@@ -198,6 +198,17 @@
     ]
   },
   {
+    "id": 128,
+    "title": "Longest Consecutive Sequence",
+    "title_slug": "longest-consecutive-sequence",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ]
+  },
+  {
     "id": 130,
     "title": "Surrounded Regions",
     "title_slug": "surrounded-regions",

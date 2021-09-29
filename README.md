@@ -22,6 +22,7 @@
 | 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | Easy | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 0110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | Easy | `Binary Tree` `Depth-First Search` `Tree` |
 | 0124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) | Hard | `Binary Tree` `Depth-First Search` `Dynamic Programming` `Tree` |
+| 0128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | Medium | `Array` `Hash Table` `Union Find` |
 | 0130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions) | Medium | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` `Union Find` |
 | 0132 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii) | Hard | `Dynamic Programming` `String` |
 | 0144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | Easy | `Binary Tree` `Depth-First Search` `Stack` `Tree` |
