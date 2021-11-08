@@ -16,6 +16,7 @@
 | 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | Medium | `Array` `Binary Search` |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | Easy | `Array` `Binary Search` |
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Medium | `Array` `Divide and Conquer` `Dynamic Programming` |
+| 0073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | Medium | `Array` `Hash Table` `Matrix` |
 | 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | Easy | `Binary Tree` `Depth-First Search` `Stack` `Tree` |
 | 0095 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii) | Medium | `Backtracking` `Binary Search Tree` `Binary Tree` `Dynamic Programming` `Tree` |
 | 0098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | Medium | `Binary Search Tree` `Binary Tree` `Depth-First Search` `Tree` |

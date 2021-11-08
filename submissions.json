@@ -124,6 +124,17 @@
     ]
   },
   {
+    "id": 73,
+    "title": "Set Matrix Zeroes",
+    "title_slug": "set-matrix-zeroes",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
     "id": 94,
     "title": "Binary Tree Inorder Traversal",
     "title_slug": "binary-tree-inorder-traversal",
