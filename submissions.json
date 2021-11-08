@@ -123,6 +123,17 @@
     ]
   },
   {
+    "id": 48,
+    "title": "Rotate Image",
+    "title_slug": "rotate-image",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Math",
+      "Matrix"
+    ]
+  },
+  {
     "id": 53,
     "title": "Maximum Subarray",
     "title_slug": "maximum-subarray",
