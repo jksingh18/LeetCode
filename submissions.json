@@ -73,6 +73,16 @@
     ]
   },
   {
+    "id": 21,
+    "title": "Merge Two Sorted Lists",
+    "title_slug": "merge-two-sorted-lists",
+    "difficulty": "Easy",
+    "skills": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
     "id": 26,
     "title": "Remove Duplicates from Sorted Array",
     "title_slug": "remove-duplicates-from-sorted-array",
