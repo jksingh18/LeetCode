@@ -207,6 +207,16 @@
     ]
   },
   {
+    "id": 118,
+    "title": "Pascal's Triangle",
+    "title_slug": "pascals-triangle",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 124,
     "title": "Binary Tree Maximum Path Sum",
     "title_slug": "binary-tree-maximum-path-sum",
