@@ -145,6 +145,16 @@
     ]
   },
   {
+    "id": 56,
+    "title": "Merge Intervals",
+    "title_slug": "merge-intervals",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
     "id": 73,
     "title": "Set Matrix Zeroes",
     "title_slug": "set-matrix-zeroes",

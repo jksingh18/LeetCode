@@ -18,6 +18,7 @@
 | 0046 | [Permutations](https://leetcode.com/problems/permutations) | Medium | `Array` `Backtracking` |
 | 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image) | Medium | `Array` `Math` `Matrix` |
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Medium | `Array` `Divide and Conquer` `Dynamic Programming` |
+| 0056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | Medium | `Array` `Sorting` |
 | 0073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | Medium | `Array` `Hash Table` `Matrix` |
 | 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | Easy | `Binary Tree` `Depth-First Search` `Stack` `Tree` |
 | 0095 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii) | Medium | `Backtracking` `Binary Search Tree` `Binary Tree` `Dynamic Programming` `Tree` |
