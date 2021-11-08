@@ -113,6 +113,16 @@
     ]
   },
   {
+    "id": 46,
+    "title": "Permutations",
+    "title_slug": "permutations",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
     "id": 53,
     "title": "Maximum Subarray",
     "title_slug": "maximum-subarray",
