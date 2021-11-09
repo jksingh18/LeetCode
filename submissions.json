@@ -144,6 +144,16 @@
     ]
   },
   {
+    "id": 50,
+    "title": "Pow(x, n)",
+    "title_slug": "powx-n",
+    "difficulty": "Medium",
+    "skills": [
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
     "id": 53,
     "title": "Maximum Subarray",
     "title_slug": "maximum-subarray",
