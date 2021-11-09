@@ -176,6 +176,17 @@
     ]
   },
   {
+    "id": 74,
+    "title": "Search a 2D Matrix",
+    "title_slug": "search-a-2d-matrix",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Matrix"
+    ]
+  },
+  {
     "id": 94,
     "title": "Binary Tree Inorder Traversal",
     "title_slug": "binary-tree-inorder-traversal",
