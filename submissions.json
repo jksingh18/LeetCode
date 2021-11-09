@@ -348,6 +348,19 @@
     ]
   },
   {
+    "id": 169,
+    "title": "Majority Element",
+    "title_slug": "majority-element",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting",
+      "Divide and Conquer",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
     "id": 200,
     "title": "Number of Islands",
     "title_slug": "number-of-islands",
