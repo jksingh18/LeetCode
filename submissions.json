@@ -461,6 +461,18 @@
     ]
   },
   {
+    "id": 496,
+    "title": "Next Greater Element I",
+    "title_slug": "next-greater-element-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Monotonic Stack",
+      "Stack"
+    ]
+  },
+  {
     "id": 584,
     "title": "Find Customer Referee",
     "title_slug": "find-customer-referee",
