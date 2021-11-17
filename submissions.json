@@ -496,6 +496,16 @@
     ]
   },
   {
+    "id": 540,
+    "title": "Single Element in a Sorted Array",
+    "title_slug": "single-element-in-a-sorted-array",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
     "id": 584,
     "title": "Find Customer Referee",
     "title_slug": "find-customer-referee",
