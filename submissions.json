@@ -206,6 +206,16 @@
     ]
   },
   {
+    "id": 61,
+    "title": "Rotate List",
+    "title_slug": "rotate-list",
+    "difficulty": "Medium",
+    "skills": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 73,
     "title": "Set Matrix Zeroes",
     "title_slug": "set-matrix-zeroes",
