@@ -103,6 +103,16 @@
     ]
   },
   {
+    "id": 33,
+    "title": "Search in Rotated Sorted Array",
+    "title_slug": "search-in-rotated-sorted-array",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
     "id": 34,
     "title": "Find First and Last Position of Element in Sorted Array",
     "title_slug": "find-first-and-last-position-of-element-in-sorted-array",
