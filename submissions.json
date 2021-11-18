@@ -369,6 +369,18 @@
     ]
   },
   {
+    "id": 146,
+    "title": "LRU Cache",
+    "title_slug": "lru-cache",
+    "difficulty": "Medium",
+    "skills": [
+      "Design",
+      "Doubly-Linked List",
+      "Hash Table",
+      "Linked List"
+    ]
+  },
+  {
     "id": 155,
     "title": "Min Stack",
     "title_slug": "min-stack",
