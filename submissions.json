@@ -94,6 +94,16 @@
     ]
   },
   {
+    "id": 25,
+    "title": "Reverse Nodes in k-Group",
+    "title_slug": "reverse-nodes-in-k-group",
+    "difficulty": "Hard",
+    "skills": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
     "id": 26,
     "title": "Remove Duplicates from Sorted Array",
     "title_slug": "remove-duplicates-from-sorted-array",
