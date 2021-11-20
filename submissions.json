@@ -766,6 +766,16 @@
     ]
   },
   {
+    "id": 1047,
+    "title": "Remove All Adjacent Duplicates In String",
+    "title_slug": "remove-all-adjacent-duplicates-in-string",
+    "difficulty": "Easy",
+    "skills": [
+      "Stack",
+      "String"
+    ]
+  },
+  {
     "id": 1071,
     "title": "Greatest Common Divisor of Strings",
     "title_slug": "greatest-common-divisor-of-strings",

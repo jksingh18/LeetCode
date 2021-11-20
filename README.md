@@ -73,6 +73,7 @@
 | 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | Medium | `Array` `Breadth-First Search` `Matrix` |
 | 1020 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves) | Medium | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` `Union Find` |
 | 1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor) | Medium | `Binary Tree` `Depth-First Search` `Tree` |
+| 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string) | Easy | `Stack` `String` |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | Easy | `Math` `String` |
 | 1114 | [Print in Order](https://leetcode.com/problems/print-in-order) | Easy | `Concurrency` |
 | 1115 | [Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately) | Medium | `Concurrency` |
