@@ -570,6 +570,18 @@
     ]
   },
   {
+    "id": 567,
+    "title": "Permutation in String",
+    "title_slug": "permutation-in-string",
+    "difficulty": "Medium",
+    "skills": [
+      "Hash Table",
+      "Sliding Window",
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 584,
     "title": "Find Customer Referee",
     "title_slug": "find-customer-referee",
