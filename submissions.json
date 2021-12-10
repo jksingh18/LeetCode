@@ -412,6 +412,16 @@
     ]
   },
   {
+    "id": 152,
+    "title": "Maximum Product Subarray",
+    "title_slug": "maximum-product-subarray",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 155,
     "title": "Min Stack",
     "title_slug": "min-stack",

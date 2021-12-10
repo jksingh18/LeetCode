@@ -42,6 +42,7 @@
 | 0142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | Medium | `Hash Table` `Linked List` `Two Pointers` |
 | 0144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | Easy | `Binary Tree` `Depth-First Search` `Stack` `Tree` |
 | 0146 | [LRU Cache](https://leetcode.com/problems/lru-cache) | Medium | `Design` `Doubly-Linked List` `Hash Table` `Linked List` |
+| 0152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) | Medium | `Array` `Dynamic Programming` |
 | 0155 | [Min Stack](https://leetcode.com/problems/min-stack) | Medium | `Design` `Stack` |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element) | Easy | `Array` `Counting` `Divide and Conquer` `Hash Table` `Sorting` |
 | 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | Medium | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` `Union Find` |
