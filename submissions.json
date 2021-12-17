@@ -454,6 +454,15 @@
     ]
   },
   {
+    "id": 180,
+    "title": "Consecutive Numbers",
+    "title_slug": "consecutive-numbers",
+    "difficulty": "Medium",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 200,
     "title": "Number of Islands",
     "title_slug": "number-of-islands",
