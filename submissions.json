@@ -472,6 +472,15 @@
     ]
   },
   {
+    "id": 196,
+    "title": "Delete Duplicate Emails",
+    "title_slug": "delete-duplicate-emails",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 200,
     "title": "Number of Islands",
     "title_slug": "number-of-islands",

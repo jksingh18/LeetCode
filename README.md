@@ -48,6 +48,7 @@
 | 0177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary) | Medium | `Database` |
 | 0180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers) | Medium | `Database` |
 | 0182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails) | Easy | `Database` |
+| 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails) | Easy | `Database` |
 | 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | Medium | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` `Union Find` |
 | 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | Easy | `Linked List` `Recursion` |
 | 0232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | Easy | `Design` `Queue` `Stack` |
