@@ -64,6 +64,7 @@
 | 0567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string) | Medium | `Hash Table` `Sliding Window` `String` `Two Pointers` |
 | 0584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee) | Easy | `Database` |
 | 0595 | [Big Countries](https://leetcode.com/problems/big-countries) | Easy | `Database` |
+| 0627 | [Swap Salary](https://leetcode.com/problems/swap-salary) | Easy | `Database` |
 | 0637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree) | Easy | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 0684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection) | Medium | `Breadth-First Search` `Depth-First Search` `Graph` `Union Find` |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | `Array` `Binary Search` |

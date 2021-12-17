@@ -646,6 +646,15 @@
     ]
   },
   {
+    "id": 627,
+    "title": "Swap Salary",
+    "title_slug": "swap-salary",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 637,
     "title": "Average of Levels in Binary Tree",
     "title_slug": "average-of-levels-in-binary-tree",
