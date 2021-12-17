@@ -445,6 +445,15 @@
     ]
   },
   {
+    "id": 177,
+    "title": "Nth Highest Salary",
+    "title_slug": "nth-highest-salary",
+    "difficulty": "Medium",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 200,
     "title": "Number of Islands",
     "title_slug": "number-of-islands",
