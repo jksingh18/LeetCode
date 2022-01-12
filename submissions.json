@@ -504,6 +504,17 @@
     ]
   },
   {
+    "id": 225,
+    "title": "Implement Stack using Queues",
+    "title_slug": "implement-stack-using-queues",
+    "difficulty": "Easy",
+    "skills": [
+      "Design",
+      "Queue",
+      "Stack"
+    ]
+  },
+  {
     "id": 232,
     "title": "Implement Queue using Stacks",
     "title_slug": "implement-queue-using-stacks",
