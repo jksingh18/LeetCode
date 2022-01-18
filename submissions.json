@@ -124,6 +124,16 @@
     ]
   },
   {
+    "id": 31,
+    "title": "Next Permutation",
+    "title_slug": "next-permutation",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 33,
     "title": "Search in Rotated Sorted Array",
     "title_slug": "search-in-rotated-sorted-array",
