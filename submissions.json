@@ -95,6 +95,16 @@
     ]
   },
   {
+    "id": 20,
+    "title": "Valid Parentheses",
+    "title_slug": "valid-parentheses",
+    "difficulty": "Easy",
+    "skills": [
+      "Stack",
+      "String"
+    ]
+  },
+  {
     "id": 21,
     "title": "Merge Two Sorted Lists",
     "title_slug": "merge-two-sorted-lists",
