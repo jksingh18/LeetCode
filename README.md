@@ -47,6 +47,7 @@
 | 0155 | [Min Stack](https://leetcode.com/problems/min-stack) | Medium | `Design` `Stack` |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element) | Easy | `Array` `Counting` `Divide and Conquer` `Hash Table` `Sorting` |
 | 0175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables) | Easy | `Database` |
+| 0176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary) | Medium | `Database` |
 | 0177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary) | Medium | `Database` |
 | 0180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers) | Medium | `Database` |
 | 0182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails) | Easy | `Database` |

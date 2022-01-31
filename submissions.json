@@ -464,6 +464,15 @@
     ]
   },
   {
+    "id": 176,
+    "title": "Second Highest Salary",
+    "title_slug": "second-highest-salary",
+    "difficulty": "Medium",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 177,
     "title": "Nth Highest Salary",
     "title_slug": "nth-highest-salary",
