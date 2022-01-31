@@ -500,6 +500,17 @@
     ]
   },
   {
+    "id": 189,
+    "title": "Rotate Array",
+    "title_slug": "rotate-array",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 196,
     "title": "Delete Duplicate Emails",
     "title_slug": "delete-duplicate-emails",
