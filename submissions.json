@@ -185,6 +185,18 @@
     ]
   },
   {
+    "id": 37,
+    "title": "Sudoku Solver",
+    "title_slug": "sudoku-solver",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Backtracking",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
     "id": 46,
     "title": "Permutations",
     "title_slug": "permutations",
