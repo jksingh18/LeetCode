@@ -675,6 +675,17 @@
     ]
   },
   {
+    "id": 438,
+    "title": "Find All Anagrams in a String",
+    "title_slug": "find-all-anagrams-in-a-string",
+    "difficulty": "Medium",
+    "skills": [
+      "Hash Table",
+      "Sliding Window",
+      "String"
+    ]
+  },
+  {
     "id": 470,
     "title": "Implement Rand10() Using Rand7()",
     "title_slug": "implement-rand10-using-rand7",
