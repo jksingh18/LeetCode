@@ -72,6 +72,7 @@
 | 0470 | [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7) | Medium | `Math` `Probability and Statistics` `Randomized` `Rejection Sampling` |
 | 0494 | [Target Sum](https://leetcode.com/problems/target-sum) | Medium | `Array` `Backtracking` `Dynamic Programming` |
 | 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | Easy | `Array` `Hash Table` `Monotonic Stack` `Stack` |
+| 0525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array) | Medium | `Array` `Hash Table` `Prefix Sum` |
 | 0540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array) | Medium | `Array` `Binary Search` |
 | 0567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string) | Medium | `Hash Table` `Sliding Window` `String` `Two Pointers` |
 | 0584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee) | Easy | `Database` |
