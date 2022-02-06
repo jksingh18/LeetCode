@@ -315,6 +315,16 @@
     ]
   },
   {
+    "id": 80,
+    "title": "Remove Duplicates from Sorted Array II",
+    "title_slug": "remove-duplicates-from-sorted-array-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 94,
     "title": "Binary Tree Inorder Traversal",
     "title_slug": "binary-tree-inorder-traversal",
