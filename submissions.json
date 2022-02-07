@@ -698,6 +698,18 @@
     ]
   },
   {
+    "id": 389,
+    "title": "Find the Difference",
+    "title_slug": "find-the-difference",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation",
+      "Hash Table",
+      "Sorting",
+      "String"
+    ]
+  },
+  {
     "id": 429,
     "title": "N-ary Tree Level Order Traversal",
     "title_slug": "n-ary-tree-level-order-traversal",
