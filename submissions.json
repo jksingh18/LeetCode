@@ -686,6 +686,17 @@
     ]
   },
   {
+    "id": 258,
+    "title": "Add Digits",
+    "title_slug": "add-digits",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "Number Theory",
+      "Simulation"
+    ]
+  },
+  {
     "id": 287,
     "title": "Find the Duplicate Number",
     "title_slug": "find-the-duplicate-number",
