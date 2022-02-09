@@ -788,6 +788,19 @@
     ]
   },
   {
+    "id": 532,
+    "title": "K-diff Pairs in an Array",
+    "title_slug": "k-diff-pairs-in-an-array",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Hash Table",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 540,
     "title": "Single Element in a Sorted Array",
     "title_slug": "single-element-in-a-sorted-array",
