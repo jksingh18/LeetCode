@@ -70,6 +70,7 @@
 | 0239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | Hard | `Array` `Heap (Priority Queue)` `Monotonic Queue` `Queue` `Sliding Window` |
 | 0258 | [Add Digits](https://leetcode.com/problems/add-digits) | Easy | `Math` `Number Theory` `Simulation` |
 | 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | Medium | `Array` `Binary Search` `Bit Manipulation` `Two Pointers` |
+| 0344 | [Reverse String](https://leetcode.com/problems/reverse-string) | Easy | `String` `Two Pointers` |
 | 0389 | [Find the Difference](https://leetcode.com/problems/find-the-difference) | Easy | `Bit Manipulation` `Hash Table` `Sorting` `String` |
 | 0429 | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal) | Medium | `Breadth-First Search` `Tree` |
 | 0438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string) | Medium | `Hash Table` `Sliding Window` `String` |
