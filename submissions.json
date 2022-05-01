@@ -942,6 +942,18 @@
     ]
   },
   {
+    "id": 844,
+    "title": "Backspace String Compare",
+    "title_slug": "backspace-string-compare",
+    "difficulty": "Easy",
+    "skills": [
+      "Simulation",
+      "Stack",
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 872,
     "title": "Leaf-Similar Trees",
     "title_slug": "leaf-similar-trees",
