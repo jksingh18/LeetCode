@@ -12,6 +12,17 @@
     ]
   },
   {
+    "id": 872,
+    "title": "Leaf-Similar Trees",
+    "title_slug": "leaf-similar-trees",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 938,
     "title": "Range Sum of BST",
     "title_slug": "range-sum-of-bst",
