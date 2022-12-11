@@ -4,6 +4,7 @@
 
 | # | Title | Difficulty | Skills |
 |---| ----- | ---------- | ------ |
+| 0124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) | Hard | `Binary Tree` `Depth-First Search` `Dynamic Programming` `Tree` |
 | 0637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree) | Easy | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 0872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees) | Easy | `Binary Tree` `Depth-First Search` `Tree` |
 | 0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | Easy | `Binary Search Tree` `Binary Tree` `Depth-First Search` `Tree` |
