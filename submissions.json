@@ -12,6 +12,17 @@
     ]
   },
   {
+    "id": 232,
+    "title": "Implement Queue using Stacks",
+    "title_slug": "implement-queue-using-stacks",
+    "difficulty": "Easy",
+    "skills": [
+      "Design",
+      "Queue",
+      "Stack"
+    ]
+  },
+  {
     "id": 637,
     "title": "Average of Levels in Binary Tree",
     "title_slug": "average-of-levels-in-binary-tree",
