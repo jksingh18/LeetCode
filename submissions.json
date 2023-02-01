@@ -79,6 +79,16 @@
     ]
   },
   {
+    "id": 1071,
+    "title": "Greatest Common Divisor of Strings",
+    "title_slug": "greatest-common-divisor-of-strings",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "String"
+    ]
+  },
+  {
     "id": 1143,
     "title": "Longest Common Subsequence",
     "title_slug": "longest-common-subsequence",
