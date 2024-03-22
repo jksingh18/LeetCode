@@ -33,6 +33,18 @@
     ]
   },
   {
+    "id": 234,
+    "title": "Palindrome Linked List",
+    "title_slug": "palindrome-linked-list",
+    "difficulty": "Easy",
+    "skills": [
+      "Linked List",
+      "Recursion",
+      "Stack",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 637,
     "title": "Average of Levels in Binary Tree",
     "title_slug": "average-of-levels-in-binary-tree",
