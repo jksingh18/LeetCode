@@ -141,5 +141,16 @@
       "String",
       "Two Pointers"
     ]
+  },
+  {
+    "id": 3152,
+    "title": "Special Array II",
+    "title_slug": "special-array-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Prefix Sum"
+    ]
   }
 ]
