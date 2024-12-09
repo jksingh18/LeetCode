@@ -111,6 +111,15 @@
     ]
   },
   {
+    "id": 1114,
+    "title": "Print in Order",
+    "title_slug": "print-in-order",
+    "difficulty": "Easy",
+    "skills": [
+      "Concurrency"
+    ]
+  },
+  {
     "id": 1143,
     "title": "Longest Common Subsequence",
     "title_slug": "longest-common-subsequence",
