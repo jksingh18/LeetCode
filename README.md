@@ -16,6 +16,7 @@
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | Easy | `Math` `String` |
 | 1114 | [Print in Order](https://leetcode.com/problems/print-in-order) | Easy | `Concurrency` |
 | 1115 | [Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately) | Medium | `Concurrency` |
+| 1116 | [Print Zero Even Odd](https://leetcode.com/problems/print-zero-even-odd) | Medium | `Concurrency` |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) | Medium | `Dynamic Programming` `String` |
 | 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree) | Medium | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string) | Medium | `String` `Two Pointers` |

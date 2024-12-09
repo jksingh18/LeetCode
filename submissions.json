@@ -129,6 +129,15 @@
     ]
   },
   {
+    "id": 1116,
+    "title": "Print Zero Even Odd",
+    "title_slug": "print-zero-even-odd",
+    "difficulty": "Medium",
+    "skills": [
+      "Concurrency"
+    ]
+  },
+  {
     "id": 1143,
     "title": "Longest Common Subsequence",
     "title_slug": "longest-common-subsequence",
