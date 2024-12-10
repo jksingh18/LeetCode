@@ -20,4 +20,5 @@
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) | Medium | `Dynamic Programming` `String` |
 | 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree) | Medium | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string) | Medium | `String` `Two Pointers` |
+| 2981 | [Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i) | Medium | `Binary Search` `Counting` `Hash Table` `Sliding Window` `String` |
 | 3152 | [Special Array II](https://leetcode.com/problems/special-array-ii) | Medium | `Array` `Binary Search` `Prefix Sum` |

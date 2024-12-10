@@ -170,6 +170,19 @@
     ]
   },
   {
+    "id": 2981,
+    "title": "Find Longest Special Substring That Occurs Thrice I",
+    "title_slug": "find-longest-special-substring-that-occurs-thrice-i",
+    "difficulty": "Medium",
+    "skills": [
+      "Binary Search",
+      "Counting",
+      "Hash Table",
+      "Sliding Window",
+      "String"
+    ]
+  },
+  {
     "id": 3152,
     "title": "Special Array II",
     "title_slug": "special-array-ii",
