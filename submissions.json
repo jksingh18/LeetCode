@@ -170,6 +170,18 @@
     ]
   },
   {
+    "id": 2779,
+    "title": "Maximum Beauty of an Array After Applying Operation",
+    "title_slug": "maximum-beauty-of-an-array-after-applying-operation",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Sorting"
+    ]
+  },
+  {
     "id": 2981,
     "title": "Find Longest Special Substring That Occurs Thrice I",
     "title_slug": "find-longest-special-substring-that-occurs-thrice-i",
