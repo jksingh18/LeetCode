@@ -181,6 +181,19 @@
     ]
   },
   {
+    "id": 2593,
+    "title": "Find Score of an Array After Marking All Elements",
+    "title_slug": "find-score-of-an-array-after-marking-all-elements",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Heap (Priority Queue)",
+      "Simulation",
+      "Sorting"
+    ]
+  },
+  {
     "id": 2779,
     "title": "Maximum Beauty of an Array After Applying Operation",
     "title_slug": "maximum-beauty-of-an-array-after-applying-operation",
