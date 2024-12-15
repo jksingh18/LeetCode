@@ -160,6 +160,17 @@
     ]
   },
   {
+    "id": 1792,
+    "title": "Maximum Average Pass Ratio",
+    "title_slug": "maximum-average-pass-ratio",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
     "id": 2337,
     "title": "Move Pieces to Obtain a String",
     "title_slug": "move-pieces-to-obtain-a-string",
