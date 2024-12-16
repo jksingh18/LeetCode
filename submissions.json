@@ -253,5 +253,17 @@
       "Binary Search",
       "Prefix Sum"
     ]
+  },
+  {
+    "id": 3264,
+    "title": "Final Array State After K Multiplication Operations I",
+    "title_slug": "final-array-state-after-k-multiplication-operations-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Heap (Priority Queue)",
+      "Math",
+      "Simulation"
+    ]
   }
 ]
