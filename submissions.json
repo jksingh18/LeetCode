@@ -182,6 +182,19 @@
     ]
   },
   {
+    "id": 2182,
+    "title": "Construct String With Repeat Limit",
+    "title_slug": "construct-string-with-repeat-limit",
+    "difficulty": "Medium",
+    "skills": [
+      "Counting",
+      "Greedy",
+      "Hash Table",
+      "Heap (Priority Queue)",
+      "String"
+    ]
+  },
+  {
     "id": 2337,
     "title": "Move Pieces to Obtain a String",
     "title_slug": "move-pieces-to-obtain-a-string",
