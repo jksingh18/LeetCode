@@ -160,6 +160,17 @@
     ]
   },
   {
+    "id": 1475,
+    "title": "Final Prices With a Special Discount in a Shop",
+    "title_slug": "final-prices-with-a-special-discount-in-a-shop",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Monotonic Stack",
+      "Stack"
+    ]
+  },
+  {
     "id": 1792,
     "title": "Maximum Average Pass Ratio",
     "title_slug": "maximum-average-pass-ratio",
