@@ -45,6 +45,17 @@
     ]
   },
   {
+    "id": 494,
+    "title": "Target Sum",
+    "title_slug": "target-sum",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Backtracking",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 637,
     "title": "Average of Levels in Binary Tree",
     "title_slug": "average-of-levels-in-binary-tree",
