@@ -159,6 +159,16 @@
     ]
   },
   {
+    "id": 1422,
+    "title": "Maximum Score After Splitting a String",
+    "title_slug": "maximum-score-after-splitting-a-string",
+    "difficulty": "Easy",
+    "skills": [
+      "Prefix Sum",
+      "String"
+    ]
+  },
+  {
     "id": 1448,
     "title": "Count Good Nodes in Binary Tree",
     "title_slug": "count-good-nodes-in-binary-tree",
