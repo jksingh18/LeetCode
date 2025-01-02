@@ -249,6 +249,17 @@
     ]
   },
   {
+    "id": 2559,
+    "title": "Count Vowel Strings in Ranges",
+    "title_slug": "count-vowel-strings-in-ranges",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Prefix Sum",
+      "String"
+    ]
+  },
+  {
     "id": 2593,
     "title": "Find Score of an Array After Marking All Elements",
     "title_slug": "find-score-of-an-array-after-marking-all-elements",
