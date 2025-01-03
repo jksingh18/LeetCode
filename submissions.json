@@ -216,6 +216,16 @@
     ]
   },
   {
+    "id": 2270,
+    "title": "Number of Ways to Split Array",
+    "title_slug": "number-of-ways-to-split-array",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 2337,
     "title": "Move Pieces to Obtain a String",
     "title_slug": "move-pieces-to-obtain-a-string",
