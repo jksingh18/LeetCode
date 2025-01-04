@@ -343,5 +343,15 @@
       "Math",
       "Simulation"
     ]
+  },
+  {
+    "id": 3407,
+    "title": "Substring Matching Pattern",
+    "title_slug": "substring-matching-pattern",
+    "difficulty": "Easy",
+    "skills": [
+      "String",
+      "String Matching"
+    ]
   }
 ]

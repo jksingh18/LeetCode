@@ -35,3 +35,4 @@
 | 2981 | [Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i) | Medium | `Binary Search` `Counting` `Hash Table` `Sliding Window` `String` |
 | 3152 | [Special Array II](https://leetcode.com/problems/special-array-ii) | Medium | `Array` `Binary Search` `Prefix Sum` |
 | 3264 | [Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i) | Easy | `Array` `Heap (Priority Queue)` `Math` `Simulation` |
+| 3407 | [Substring Matching Pattern](https://leetcode.com/problems/substring-matching-pattern) | Easy | `String` `String Matching` |
