@@ -203,6 +203,18 @@
     ]
   },
   {
+    "id": 1930,
+    "title": "Unique Length-3 Palindromic Subsequences",
+    "title_slug": "unique-length-3-palindromic-subsequences",
+    "difficulty": "Medium",
+    "skills": [
+      "Bit Manipulation",
+      "Hash Table",
+      "Prefix Sum",
+      "String"
+    ]
+  },
+  {
     "id": 2182,
     "title": "Construct String With Repeat Limit",
     "title_slug": "construct-string-with-repeat-limit",

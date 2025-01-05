@@ -23,6 +23,7 @@
 | 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree) | Medium | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 1475 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop) | Easy | `Array` `Monotonic Stack` `Stack` |
 | 1792 | [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio) | Medium | `Array` `Greedy` `Heap (Priority Queue)` |
+| 1930 | [Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences) | Medium | `Bit Manipulation` `Hash Table` `Prefix Sum` `String` |
 | 2182 | [Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit) | Medium | `Counting` `Greedy` `Hash Table` `Heap (Priority Queue)` `String` |
 | 2270 | [Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array) | Medium | `Array` `Prefix Sum` |
 | 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string) | Medium | `String` `Two Pointers` |
