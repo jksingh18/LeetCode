@@ -236,6 +236,17 @@
     ]
   },
   {
+    "id": 2381,
+    "title": "Shifting Letters II",
+    "title_slug": "shifting-letters-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Prefix Sum",
+      "String"
+    ]
+  },
+  {
     "id": 2415,
     "title": "Reverse Odd Levels of Binary Tree",
     "title_slug": "reverse-odd-levels-of-binary-tree",
