@@ -16,6 +16,7 @@
 | 0872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees) | Easy | `Binary Tree` `Depth-First Search` `Tree` |
 | 0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | Easy | `Binary Search Tree` `Binary Tree` `Depth-First Search` `Tree` |
 | 0944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted) | Easy | `Array` `String` |
+| 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | Medium | `Array` `Breadth-First Search` `Matrix` |
 | 1020 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves) | Medium | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` `Union Find` |
 | 1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor) | Medium | `Binary Tree` `Depth-First Search` `Tree` |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | Easy | `Math` `String` |

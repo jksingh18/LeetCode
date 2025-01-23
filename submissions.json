@@ -136,6 +136,17 @@
     ]
   },
   {
+    "id": 994,
+    "title": "Rotting Oranges",
+    "title_slug": "rotting-oranges",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
     "id": 1020,
     "title": "Number of Enclaves",
     "title_slug": "number-of-enclaves",
