@@ -22,6 +22,19 @@
     ]
   },
   {
+    "id": 200,
+    "title": "Number of Islands",
+    "title_slug": "number-of-islands",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Matrix",
+      "Union Find"
+    ]
+  },
+  {
     "id": 206,
     "title": "Reverse Linked List",
     "title_slug": "reverse-linked-list",
