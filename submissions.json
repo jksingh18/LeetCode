@@ -169,6 +169,20 @@
     ]
   },
   {
+    "id": 1267,
+    "title": "Count Servers that Communicate",
+    "title_slug": "count-servers-that-communicate",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Breadth-First Search",
+      "Counting",
+      "Depth-First Search",
+      "Matrix",
+      "Union Find"
+    ]
+  },
+  {
     "id": 1422,
     "title": "Maximum Score After Splitting a String",
     "title_slug": "maximum-score-after-splitting-a-string",

@@ -20,6 +20,7 @@
 | 1115 | [Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately) | Medium | `Concurrency` |
 | 1116 | [Print Zero Even Odd](https://leetcode.com/problems/print-zero-even-odd) | Medium | `Concurrency` |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) | Medium | `Dynamic Programming` `String` |
+| 1267 | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate) | Medium | `Array` `Breadth-First Search` `Counting` `Depth-First Search` `Matrix` `Union Find` |
 | 1422 | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string) | Easy | `Prefix Sum` `String` |
 | 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree) | Medium | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 1475 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop) | Easy | `Array` `Monotonic Stack` `Stack` |
