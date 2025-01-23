@@ -136,6 +136,19 @@
     ]
   },
   {
+    "id": 1020,
+    "title": "Number of Enclaves",
+    "title_slug": "number-of-enclaves",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Matrix",
+      "Union Find"
+    ]
+  },
+  {
     "id": 1026,
     "title": "Maximum Difference Between Node and Ancestor",
     "title_slug": "maximum-difference-between-node-and-ancestor",
