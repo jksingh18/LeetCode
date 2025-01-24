@@ -103,6 +103,18 @@
     ]
   },
   {
+    "id": 802,
+    "title": "Find Eventual Safe States",
+    "title_slug": "find-eventual-safe-states",
+    "difficulty": "Medium",
+    "skills": [
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
     "id": 872,
     "title": "Leaf-Similar Trees",
     "title_slug": "leaf-similar-trees",
