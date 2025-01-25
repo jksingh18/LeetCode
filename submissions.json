@@ -452,6 +452,17 @@
     ]
   },
   {
+    "id": 2948,
+    "title": "Make Lexicographically Smallest Array by Swapping Elements",
+    "title_slug": "make-lexicographically-smallest-array-by-swapping-elements",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Sorting",
+      "Union Find"
+    ]
+  },
+  {
     "id": 2981,
     "title": "Find Longest Special Substring That Occurs Thrice I",
     "title_slug": "find-longest-special-substring-that-occurs-thrice-i",
