@@ -22,6 +22,19 @@
     ]
   },
   {
+    "id": 130,
+    "title": "Surrounded Regions",
+    "title_slug": "surrounded-regions",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Matrix",
+      "Union Find"
+    ]
+  },
+  {
     "id": 200,
     "title": "Number of Islands",
     "title_slug": "number-of-islands",
