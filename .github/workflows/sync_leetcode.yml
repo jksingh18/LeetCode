@@ -1,0 +1,15 @@
+name: LeetSync
+on: 
+  workflow_dispatch:
+  schedule:
+      - cron: '0 0 * * *' 
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run LeetSyncMaster
+        uses: jksingh18/LeetSync@v1.1.0
+        with:
+          GITHUB_TOKEN: ${{ github.token }}
+          LEETCODE_SESSION: ${{ secrets.LEETCODE_SESSION }}
+          LEETCODE_CSRF_TOKEN: ${{ secrets.LEETCODE_CSRF_TOKEN }}
