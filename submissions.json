@@ -335,6 +335,17 @@
     ]
   },
   {
+    "id": 2127,
+    "title": "Maximum Employees to Be Invited to a Meeting",
+    "title_slug": "maximum-employees-to-be-invited-to-a-meeting",
+    "difficulty": "Hard",
+    "skills": [
+      "Depth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
     "id": 2182,
     "title": "Construct String With Repeat Limit",
     "title_slug": "construct-string-with-repeat-limit",
