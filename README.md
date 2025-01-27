@@ -29,6 +29,7 @@
 | 1267 | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate) | Medium | `Array` `Breadth-First Search` `Counting` `Depth-First Search` `Matrix` `Union Find` |
 | 1422 | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string) | Easy | `Prefix Sum` `String` |
 | 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree) | Medium | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
+| 1462 | [Course Schedule IV](https://leetcode.com/problems/course-schedule-iv) | Medium | `Breadth-First Search` `Depth-First Search` `Graph` `Topological Sort` |
 | 1475 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop) | Easy | `Array` `Monotonic Stack` `Stack` |
 | 1765 | [Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak) | Medium | `Array` `Breadth-First Search` `Matrix` |
 | 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box) | Medium | `Array` `Prefix Sum` `String` |

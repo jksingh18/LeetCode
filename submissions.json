@@ -279,6 +279,18 @@
     ]
   },
   {
+    "id": 1462,
+    "title": "Course Schedule IV",
+    "title_slug": "course-schedule-iv",
+    "difficulty": "Medium",
+    "skills": [
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
     "id": 1475,
     "title": "Final Prices With a Special Discount in a Shop",
     "title_slug": "final-prices-with-a-special-discount-in-a-shop",
