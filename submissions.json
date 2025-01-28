@@ -449,6 +449,19 @@
     ]
   },
   {
+    "id": 2658,
+    "title": "Maximum Number of Fish in a Grid",
+    "title_slug": "maximum-number-of-fish-in-a-grid",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Matrix",
+      "Union Find"
+    ]
+  },
+  {
     "id": 2762,
     "title": "Continuous Subarrays",
     "title_slug": "continuous-subarrays",
