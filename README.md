@@ -13,6 +13,7 @@
 | 0234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | Easy | `Linked List` `Recursion` `Stack` `Two Pointers` |
 | 0494 | [Target Sum](https://leetcode.com/problems/target-sum) | Medium | `Array` `Backtracking` `Dynamic Programming` |
 | 0637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree) | Easy | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
+| 0684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection) | Medium | `Breadth-First Search` `Depth-First Search` `Graph` `Union Find` |
 | 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill) | Easy | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` |
 | 0802 | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states) | Medium | `Breadth-First Search` `Depth-First Search` `Graph` `Topological Sort` |
 | 0872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees) | Easy | `Binary Tree` `Depth-First Search` `Tree` |

@@ -104,6 +104,18 @@
     ]
   },
   {
+    "id": 684,
+    "title": "Redundant Connection",
+    "title_slug": "redundant-connection",
+    "difficulty": "Medium",
+    "skills": [
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Graph",
+      "Union Find"
+    ]
+  },
+  {
     "id": 733,
     "title": "Flood Fill",
     "title_slug": "flood-fill",
