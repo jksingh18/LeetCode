@@ -548,6 +548,15 @@
     ]
   },
   {
+    "id": 3151,
+    "title": "Special Array I",
+    "title_slug": "special-array-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 3152,
     "title": "Special Array II",
     "title_slug": "special-array-ii",

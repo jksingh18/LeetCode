@@ -52,6 +52,7 @@
 | 2779 | [Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation) | Medium | `Array` `Binary Search` `Sliding Window` `Sorting` |
 | 2948 | [Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements) | Medium | `Array` `Sorting` `Union Find` |
 | 2981 | [Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i) | Medium | `Binary Search` `Counting` `Hash Table` `Sliding Window` `String` |
+| 3151 | [Special Array I](https://leetcode.com/problems/special-array-i) | Easy | `Array` |
 | 3152 | [Special Array II](https://leetcode.com/problems/special-array-ii) | Medium | `Array` `Binary Search` `Prefix Sum` |
 | 3264 | [Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i) | Easy | `Array` `Heap (Priority Queue)` `Math` `Simulation` |
 | 3407 | [Substring Matching Pattern](https://leetcode.com/problems/substring-matching-pattern) | Easy | `String` `String Matching` |
