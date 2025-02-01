@@ -579,5 +579,12 @@
       "String",
       "String Matching"
     ]
+  },
+  {
+    "id": 3438,
+    "title": "Find Valid Pair of Adjacent Digits in String",
+    "title_slug": "find-valid-pair-of-adjacent-digits-in-string",
+    "difficulty": "Easy",
+    "skills": []
   }
 ]
