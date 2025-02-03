@@ -557,6 +557,15 @@
     ]
   },
   {
+    "id": 3105,
+    "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
+    "title_slug": "longest-strictly-increasing-or-strictly-decreasing-subarray",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 3151,
     "title": "Special Array I",
     "title_slug": "special-array-i",
