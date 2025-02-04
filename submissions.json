@@ -369,6 +369,15 @@
     ]
   },
   {
+    "id": 1800,
+    "title": "Maximum Ascending Subarray Sum",
+    "title_slug": "maximum-ascending-subarray-sum",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 1930,
     "title": "Unique Length-3 Palindromic Subsequences",
     "title_slug": "unique-length-3-palindromic-subsequences",
