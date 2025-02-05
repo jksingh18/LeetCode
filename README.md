@@ -36,6 +36,7 @@
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | Easy | `Array` |
 | 1765 | [Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak) | Medium | `Array` `Breadth-First Search` `Matrix` |
 | 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box) | Medium | `Array` `Prefix Sum` `String` |
+| 1790 | [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal) | Easy | `Counting` `Hash Table` `String` |
 | 1792 | [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio) | Medium | `Array` `Greedy` `Heap (Priority Queue)` |
 | 1800 | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum) | Easy | `Array` |
 | 1930 | [Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences) | Medium | `Bit Manipulation` `Hash Table` `Prefix Sum` `String` |
