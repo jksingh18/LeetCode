@@ -33,6 +33,7 @@
 | 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree) | Medium | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 1462 | [Course Schedule IV](https://leetcode.com/problems/course-schedule-iv) | Medium | `Breadth-First Search` `Depth-First Search` `Graph` `Topological Sort` |
 | 1475 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop) | Easy | `Array` `Monotonic Stack` `Stack` |
+| 1726 | [Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product) | Medium | `Array` `Counting` `Hash Table` |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | Easy | `Array` |
 | 1765 | [Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak) | Medium | `Array` `Breadth-First Search` `Matrix` |
 | 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box) | Medium | `Array` `Prefix Sum` `String` |
