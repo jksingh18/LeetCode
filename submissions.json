@@ -617,6 +617,17 @@
     ]
   },
   {
+    "id": 3160,
+    "title": "Find the Number of Distinct Colors Among the Balls",
+    "title_slug": "find-the-number-of-distinct-colors-among-the-balls",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Simulation"
+    ]
+  },
+  {
     "id": 3264,
     "title": "Final Array State After K Multiplication Operations I",
     "title_slug": "final-array-state-after-k-multiplication-operations-i",
