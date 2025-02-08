@@ -34,6 +34,17 @@
     ]
   },
   {
+    "id": 110,
+    "title": "Balanced Binary Tree",
+    "title_slug": "balanced-binary-tree",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 124,
     "title": "Binary Tree Maximum Path Sum",
     "title_slug": "binary-tree-maximum-path-sum",
