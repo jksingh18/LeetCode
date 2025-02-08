@@ -10,6 +10,18 @@
     ]
   },
   {
+    "id": 104,
+    "title": "Maximum Depth of Binary Tree",
+    "title_slug": "maximum-depth-of-binary-tree",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 124,
     "title": "Binary Tree Maximum Path Sum",
     "title_slug": "binary-tree-maximum-path-sum",
