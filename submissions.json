@@ -456,6 +456,18 @@
     ]
   },
   {
+    "id": 2349,
+    "title": "Design a Number Container System",
+    "title_slug": "design-a-number-container-system",
+    "difficulty": "Medium",
+    "skills": [
+      "Design",
+      "Hash Table",
+      "Heap (Priority Queue)",
+      "Ordered Set"
+    ]
+  },
+  {
     "id": 2381,
     "title": "Shifting Letters II",
     "title_slug": "shifting-letters-ii",
