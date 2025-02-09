@@ -503,6 +503,18 @@
     ]
   },
   {
+    "id": 2364,
+    "title": "Count Number of Bad Pairs",
+    "title_slug": "count-number-of-bad-pairs",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Counting",
+      "Hash Table",
+      "Math"
+    ]
+  },
+  {
     "id": 2381,
     "title": "Shifting Letters II",
     "title_slug": "shifting-letters-ii",
