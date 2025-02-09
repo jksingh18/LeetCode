@@ -1,41 +1,36 @@
 class Solution {
-    // int dp[][]=new int[1000+1][1000+1] ;
-    public int longestCommonSubsequence(String s1, String s2) {
-        int[] next = new int[s2.length()+1], curr = new int[s2.length()+1];
-    
-    for( int i = s1.length()-1; i >= 0 ; i-- ){
-        for( int j = s2.length()-1; j >=0; j-- ){
-            if( s1.charAt(i) == s2.charAt(j) ){
-                curr[j] = 1+next[j+1];
-            }else{
-                curr[j] = Math.max(curr[j+1], next[j]);
-            }                
+    public int longestCommonSubsequence(String X, String Y) {
+        int m = X.length(), n = Y.length();
+ 
+        // allocate storage for one-dimensional array `curr`
+        int[] curr = new int[n + 1];
+        int prev;
+ 
+        // fill the lookup table in a bottom-up manner
+        for (int i = 0; i <= m; i++)
+        {
+            prev = curr[0];
+            for (int j = 0; j <= n; j++)
+            {
+                int backup = curr[j];
+                if (i == 0 || j == 0) {
+                    curr[j] = 0;
+                }
+                else {
+                    // if the current character of `X` and `Y` matches
+                    if (X.charAt(i - 1) == Y.charAt(j - 1)) {
+                        curr[j] = prev + 1;
+                    }
+                    // otherwise, if the current character of `X` and `Y` don't match
+                    else {
+                        curr[j] = Integer.max(curr[j], curr[j - 1]);
+                    }
+                }
+                prev = backup;
+            }
         }
-        next = curr.clone();
-    }
-    
-    return next[0];
-        
-//         int l1=a.length(),l2=b.length();
-        
-//         for(int i=0;i<=l1;i++)
-//         dp[i][0]=0;
-        
-//         for(int i=0;i<=l2;i++)
-//         dp[0][i]=0;
-        
-//         for(int i=1;i<=l1;i++)
-//         {
-//             for(int j=1;j<=l2;j++)
-//             {
-//                 if(a.charAt(i-1)==b.charAt(j-1))
-//                 dp[i][j]=1+dp[i-1][j-1];
-                
-//                 else dp[i][j]=Math.max(dp[i-1][j] , dp[i][j-1]);
-//             }
-//         }
-//         return dp[l1][l2];
-        
-        
+ 
+        // LCS will be the last entry in the lookup table
+        return curr[n];
     }
 }
