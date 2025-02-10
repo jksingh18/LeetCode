@@ -687,6 +687,17 @@
     ]
   },
   {
+    "id": 3174,
+    "title": "Clear Digits",
+    "title_slug": "clear-digits",
+    "difficulty": "Easy",
+    "skills": [
+      "Simulation",
+      "Stack",
+      "String"
+    ]
+  },
+  {
     "id": 3264,
     "title": "Final Array State After K Multiplication Operations I",
     "title_slug": "final-array-state-after-k-multiplication-operations-i",
