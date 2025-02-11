@@ -435,6 +435,17 @@
     ]
   },
   {
+    "id": 1910,
+    "title": "Remove All Occurrences of a Substring",
+    "title_slug": "remove-all-occurrences-of-a-substring",
+    "difficulty": "Medium",
+    "skills": [
+      "Simulation",
+      "Stack",
+      "String"
+    ]
+  },
+  {
     "id": 1930,
     "title": "Unique Length-3 Palindromic Subsequences",
     "title_slug": "unique-length-3-palindromic-subsequences",
