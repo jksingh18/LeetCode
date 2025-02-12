@@ -502,6 +502,18 @@
     ]
   },
   {
+    "id": 2342,
+    "title": "Max Sum of a Pair With Equal Sum of Digits",
+    "title_slug": "max-sum-of-a-pair-with-equal-sum-of-digits",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Heap (Priority Queue)",
+      "Sorting"
+    ]
+  },
+  {
     "id": 2349,
     "title": "Design a Number Container System",
     "title_slug": "design-a-number-container-system",

@@ -49,6 +49,7 @@
 | 2182 | [Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit) | Medium | `Counting` `Greedy` `Hash Table` `Heap (Priority Queue)` `String` |
 | 2270 | [Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array) | Medium | `Array` `Prefix Sum` |
 | 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string) | Medium | `String` `Two Pointers` |
+| 2342 | [Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits) | Medium | `Array` `Hash Table` `Heap (Priority Queue)` `Sorting` |
 | 2349 | [Design a Number Container System](https://leetcode.com/problems/design-a-number-container-system) | Medium | `Design` `Hash Table` `Heap (Priority Queue)` `Ordered Set` |
 | 2364 | [Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs) | Medium | `Array` `Counting` `Hash Table` `Math` |
 | 2381 | [Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii) | Medium | `Array` `Prefix Sum` `String` |
