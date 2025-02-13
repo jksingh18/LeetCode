@@ -401,6 +401,15 @@
     ]
   },
   {
+    "id": 1683,
+    "title": "Invalid Tweets",
+    "title_slug": "invalid-tweets",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 1726,
     "title": "Tuple with Same Product",
     "title_slug": "tuple-with-same-product",
