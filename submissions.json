@@ -128,6 +128,18 @@
     ]
   },
   {
+    "id": 470,
+    "title": "Implement Rand10() Using Rand7()",
+    "title_slug": "implement-rand10-using-rand7",
+    "difficulty": "Medium",
+    "skills": [
+      "Math",
+      "Probability and Statistics",
+      "Randomized",
+      "Rejection Sampling"
+    ]
+  },
+  {
     "id": 494,
     "title": "Target Sum",
     "title_slug": "target-sum",

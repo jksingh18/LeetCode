@@ -15,6 +15,7 @@
 | 0232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | Easy | `Design` `Queue` `Stack` |
 | 0234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | Easy | `Linked List` `Recursion` `Stack` `Two Pointers` |
 | 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | Medium | `Array` `Binary Search` `Bit Manipulation` `Two Pointers` |
+| 0470 | [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7) | Medium | `Math` `Probability and Statistics` `Randomized` `Rejection Sampling` |
 | 0494 | [Target Sum](https://leetcode.com/problems/target-sum) | Medium | `Array` `Backtracking` `Dynamic Programming` |
 | 0584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee) | Easy | `Database` |
 | 0595 | [Big Countries](https://leetcode.com/problems/big-countries) | Easy | `Database` |
