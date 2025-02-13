@@ -333,6 +333,15 @@
     ]
   },
   {
+    "id": 1148,
+    "title": "Article Views I",
+    "title_slug": "article-views-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 1267,
     "title": "Count Servers that Communicate",
     "title_slug": "count-servers-that-communicate",
