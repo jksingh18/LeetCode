@@ -217,6 +217,17 @@
     ]
   },
   {
+    "id": 808,
+    "title": "Soup Servings",
+    "title_slug": "soup-servings",
+    "difficulty": "Medium",
+    "skills": [
+      "Dynamic Programming",
+      "Math",
+      "Probability and Statistics"
+    ]
+  },
+  {
     "id": 827,
     "title": "Making A Large Island",
     "title_slug": "making-a-large-island",
