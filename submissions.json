@@ -727,6 +727,17 @@
     ]
   },
   {
+    "id": 3066,
+    "title": "Minimum Operations to Exceed Threshold Value II",
+    "title_slug": "minimum-operations-to-exceed-threshold-value-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Heap (Priority Queue)",
+      "Simulation"
+    ]
+  },
+  {
     "id": 3105,
     "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
     "title_slug": "longest-strictly-increasing-or-strictly-decreasing-subarray",
