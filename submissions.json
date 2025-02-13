@@ -139,6 +139,15 @@
     ]
   },
   {
+    "id": 584,
+    "title": "Find Customer Referee",
+    "title_slug": "find-customer-referee",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 637,
     "title": "Average of Levels in Binary Tree",
     "title_slug": "average-of-levels-in-binary-tree",
