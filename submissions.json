@@ -379,6 +379,19 @@
     ]
   },
   {
+    "id": 1352,
+    "title": "Product of the Last K Numbers",
+    "title_slug": "product-of-the-last-k-numbers",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Data Stream",
+      "Design",
+      "Math",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 1422,
     "title": "Maximum Score After Splitting a String",
     "title_slug": "maximum-score-after-splitting-a-string",

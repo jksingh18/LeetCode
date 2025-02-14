@@ -38,6 +38,7 @@
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) | Medium | `Dynamic Programming` `String` |
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i) | Easy | `Database` |
 | 1267 | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate) | Medium | `Array` `Breadth-First Search` `Counting` `Depth-First Search` `Matrix` `Union Find` |
+| 1352 | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers) | Medium | `Array` `Data Stream` `Design` `Math` `Prefix Sum` |
 | 1422 | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string) | Easy | `Prefix Sum` `String` |
 | 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree) | Medium | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 1462 | [Course Schedule IV](https://leetcode.com/problems/course-schedule-iv) | Medium | `Breadth-First Search` `Depth-First Search` `Graph` `Topological Sort` |
