@@ -852,5 +852,12 @@
     "title_slug": "find-valid-pair-of-adjacent-digits-in-string",
     "difficulty": "Easy",
     "skills": []
+  },
+  {
+    "id": 3452,
+    "title": "Sum of Good Numbers",
+    "title_slug": "sum-of-good-numbers",
+    "difficulty": "Easy",
+    "skills": []
   }
 ]
