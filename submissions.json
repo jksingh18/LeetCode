@@ -713,6 +713,16 @@
     ]
   },
   {
+    "id": 2698,
+    "title": "Find the Punishment Number of an Integer",
+    "title_slug": "find-the-punishment-number-of-an-integer",
+    "difficulty": "Medium",
+    "skills": [
+      "Backtracking",
+      "Math"
+    ]
+  },
+  {
     "id": 2762,
     "title": "Continuous Subarrays",
     "title_slug": "continuous-subarrays",
