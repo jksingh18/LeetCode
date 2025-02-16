@@ -44,6 +44,7 @@
 | 1462 | [Course Schedule IV](https://leetcode.com/problems/course-schedule-iv) | Medium | `Breadth-First Search` `Depth-First Search` `Graph` `Topological Sort` |
 | 1475 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop) | Easy | `Array` `Monotonic Stack` `Stack` |
 | 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets) | Easy | `Database` |
+| 1718 | [Construct the Lexicographically Largest Valid Sequence](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence) | Medium | `Array` `Backtracking` |
 | 1726 | [Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product) | Medium | `Array` `Counting` `Hash Table` |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | Easy | `Array` |
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products) | Easy | `Database` |
