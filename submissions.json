@@ -874,6 +874,17 @@
     "skills": []
   },
   {
+    "id": 3446,
+    "title": "Sort Matrix by Diagonals",
+    "title_slug": "sort-matrix-by-diagonals",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Matrix",
+      "Sorting"
+    ]
+  },
+  {
     "id": 3452,
     "title": "Sum of Good Numbers",
     "title_slug": "sum-of-good-numbers",
