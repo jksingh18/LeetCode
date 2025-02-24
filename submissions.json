@@ -1435,6 +1435,18 @@
     ]
   },
   {
+    "id": 2375,
+    "title": "Construct Smallest Number From DI String",
+    "title_slug": "construct-smallest-number-from-di-string",
+    "difficulty": "Medium",
+    "skills": [
+      "Backtracking",
+      "Greedy",
+      "Stack",
+      "String"
+    ]
+  },
+  {
     "id": 2381,
     "title": "Shifting Letters II",
     "title_slug": "shifting-letters-ii",

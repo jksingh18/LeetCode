@@ -136,6 +136,7 @@
 | 2342 | [Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits) | Medium | `Array` `Hash Table` `Heap (Priority Queue)` `Sorting` |
 | 2349 | [Design a Number Container System](https://leetcode.com/problems/design-a-number-container-system) | Medium | `Design` `Hash Table` `Heap (Priority Queue)` `Ordered Set` |
 | 2364 | [Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs) | Medium | `Array` `Counting` `Hash Table` `Math` |
+| 2375 | [Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string) | Medium | `Backtracking` `Greedy` `Stack` `String` |
 | 2381 | [Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii) | Medium | `Array` `Prefix Sum` `String` |
 | 2415 | [Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree) | Medium | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 2493 | [Divide Nodes Into the Maximum Number of Groups](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups) | Hard | `Breadth-First Search` `Graph` `Union Find` |
