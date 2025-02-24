@@ -103,6 +103,7 @@
 | 1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor) | Medium | `Binary Tree` `Depth-First Search` `Tree` |
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string) | Easy | `Stack` `String` |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | Easy | `Math` `String` |
+| 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities) | Medium | `Backtracking` `Counting` `Hash Table` `String` |
 | 1114 | [Print in Order](https://leetcode.com/problems/print-in-order) | Easy | `Concurrency` |
 | 1115 | [Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately) | Medium | `Concurrency` |
 | 1116 | [Print Zero Even Odd](https://leetcode.com/problems/print-zero-even-odd) | Medium | `Concurrency` |

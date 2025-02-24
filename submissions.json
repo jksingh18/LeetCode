@@ -1080,6 +1080,18 @@
     ]
   },
   {
+    "id": 1079,
+    "title": "Letter Tile Possibilities",
+    "title_slug": "letter-tile-possibilities",
+    "difficulty": "Medium",
+    "skills": [
+      "Backtracking",
+      "Counting",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 1114,
     "title": "Print in Order",
     "title_slug": "print-in-order",
