@@ -1342,6 +1342,16 @@
     ]
   },
   {
+    "id": 1929,
+    "title": "Concatenation of Array",
+    "title_slug": "concatenation-of-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Simulation"
+    ]
+  },
+  {
     "id": 1930,
     "title": "Unique Length-3 Palindromic Subsequences",
     "title_slug": "unique-length-3-palindromic-subsequences",
