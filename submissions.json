@@ -1646,6 +1646,15 @@
     ]
   },
   {
+    "id": 3110,
+    "title": "Score of a String",
+    "title_slug": "score-of-a-string",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 3151,
     "title": "Special Array I",
     "title_slug": "special-array-i",
