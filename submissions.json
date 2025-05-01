@@ -1365,6 +1365,21 @@
     ]
   },
   {
+    "id": 2071,
+    "title": "Maximum Number of Tasks You Can Assign",
+    "title_slug": "maximum-number-of-tasks-you-can-assign",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Greedy",
+      "Monotonic Queue",
+      "Queue",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 2127,
     "title": "Maximum Employees to Be Invited to a Meeting",
     "title_slug": "maximum-employees-to-be-invited-to-a-meeting",
