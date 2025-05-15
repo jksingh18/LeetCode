@@ -1612,6 +1612,18 @@
     ]
   },
   {
+    "id": 2900,
+    "title": "Longest Unequal Adjacent Groups Subsequence I",
+    "title_slug": "longest-unequal-adjacent-groups-subsequence-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "String"
+    ]
+  },
+  {
     "id": 2948,
     "title": "Make Lexicographically Smallest Array by Swapping Elements",
     "title_slug": "make-lexicographically-smallest-array-by-swapping-elements",
