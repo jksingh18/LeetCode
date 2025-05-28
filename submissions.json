@@ -1731,6 +1731,17 @@
     ]
   },
   {
+    "id": 3372,
+    "title": "Maximize the Number of Target Nodes After Connecting Trees I",
+    "title_slug": "maximize-the-number-of-target-nodes-after-connecting-trees-i",
+    "difficulty": "Medium",
+    "skills": [
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 3407,
     "title": "Substring Matching Pattern",
     "title_slug": "substring-matching-pattern",
