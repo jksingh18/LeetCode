@@ -1624,6 +1624,17 @@
     ]
   },
   {
+    "id": 2929,
+    "title": "Distribute Candies Among Children II",
+    "title_slug": "distribute-candies-among-children-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Combinatorics",
+      "Enumeration",
+      "Math"
+    ]
+  },
+  {
     "id": 2948,
     "title": "Make Lexicographically Smallest Array by Swapping Elements",
     "title_slug": "make-lexicographically-smallest-array-by-swapping-elements",
