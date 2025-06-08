@@ -719,6 +719,16 @@
     ]
   },
   {
+    "id": 386,
+    "title": "Lexicographical Numbers",
+    "title_slug": "lexicographical-numbers",
+    "difficulty": "Medium",
+    "skills": [
+      "Depth-First Search",
+      "Trie"
+    ]
+  },
+  {
     "id": 389,
     "title": "Find the Difference",
     "title_slug": "find-the-difference",
