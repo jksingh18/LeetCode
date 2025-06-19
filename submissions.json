@@ -1434,6 +1434,17 @@
     ]
   },
   {
+    "id": 2294,
+    "title": "Partition Array Such That Maximum Difference Is K",
+    "title_slug": "partition-array-such-that-maximum-difference-is-k",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
     "id": 2337,
     "title": "Move Pieces to Obtain a String",
     "title_slug": "move-pieces-to-obtain-a-string",

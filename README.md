@@ -136,6 +136,7 @@
 | 2127 | [Maximum Employees to Be Invited to a Meeting](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting) | Hard | `Depth-First Search` `Graph` `Topological Sort` |
 | 2182 | [Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit) | Medium | `Counting` `Greedy` `Hash Table` `Heap (Priority Queue)` `String` |
 | 2270 | [Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array) | Medium | `Array` `Prefix Sum` |
+| 2294 | [Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k) | Medium | `Array` `Greedy` `Sorting` |
 | 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string) | Medium | `String` `Two Pointers` |
 | 2342 | [Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits) | Medium | `Array` `Hash Table` `Heap (Priority Queue)` `Sorting` |
 | 2349 | [Design a Number Container System](https://leetcode.com/problems/design-a-number-container-system) | Medium | `Design` `Hash Table` `Heap (Priority Queue)` `Ordered Set` |
