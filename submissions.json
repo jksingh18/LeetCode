@@ -916,6 +916,17 @@
     ]
   },
   {
+    "id": 735,
+    "title": "Asteroid Collision",
+    "title_slug": "asteroid-collision",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Simulation",
+      "Stack"
+    ]
+  },
+  {
     "id": 802,
     "title": "Find Eventual Safe States",
     "title_slug": "find-eventual-safe-states",

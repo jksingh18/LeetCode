@@ -89,6 +89,7 @@
 | 0684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection) | Medium | `Breadth-First Search` `Depth-First Search` `Graph` `Union Find` |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | `Array` `Binary Search` |
 | 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill) | Easy | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` |
+| 0735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision) | Medium | `Array` `Simulation` `Stack` |
 | 0802 | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states) | Medium | `Breadth-First Search` `Depth-First Search` `Graph` `Topological Sort` |
 | 0808 | [Soup Servings](https://leetcode.com/problems/soup-servings) | Medium | `Dynamic Programming` `Math` `Probability and Statistics` |
 | 0827 | [Making A Large Island](https://leetcode.com/problems/making-a-large-island) | Hard | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` `Union Find` |
