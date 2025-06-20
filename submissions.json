@@ -1813,6 +1813,18 @@
     ]
   },
   {
+    "id": 3443,
+    "title": "Maximum Manhattan Distance After K Changes",
+    "title_slug": "maximum-manhattan-distance-after-k-changes",
+    "difficulty": "Medium",
+    "skills": [
+      "Counting",
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
     "id": 3446,
     "title": "Sort Matrix by Diagonals",
     "title_slug": "sort-matrix-by-diagonals",
