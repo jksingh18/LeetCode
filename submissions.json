@@ -854,6 +854,17 @@
     ]
   },
   {
+    "id": 543,
+    "title": "Diameter of Binary Tree",
+    "title_slug": "diameter-of-binary-tree",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 567,
     "title": "Permutation in String",
     "title_slug": "permutation-in-string",
