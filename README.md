@@ -86,6 +86,7 @@
 | 0543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | Easy | `Binary Tree` `Depth-First Search` `Tree` |
 | 0567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string) | Medium | `Hash Table` `Sliding Window` `String` `Two Pointers` |
 | 0584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee) | Easy | `Database` |
+| 0594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence) | Easy | `Array` `Counting` `Hash Table` `Sliding Window` `Sorting` |
 | 0595 | [Big Countries](https://leetcode.com/problems/big-countries) | Easy | `Database` |
 | 0627 | [Swap Salary](https://leetcode.com/problems/swap-salary) | Easy | `Database` |
 | 0637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree) | Easy | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
