@@ -1821,6 +1821,15 @@
     ]
   },
   {
+    "id": 3330,
+    "title": "Find the Original Typed String I",
+    "title_slug": "find-the-original-typed-string-i",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 3372,
     "title": "Maximize the Number of Target Nodes After Connecting Trees I",
     "title_slug": "maximize-the-number-of-target-nodes-after-connecting-trees-i",
