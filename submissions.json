@@ -1830,6 +1830,17 @@
     ]
   },
   {
+    "id": 3333,
+    "title": "Find the Original Typed String II",
+    "title_slug": "find-the-original-typed-string-ii",
+    "difficulty": "Hard",
+    "skills": [
+      "Dynamic Programming",
+      "Prefix Sum",
+      "String"
+    ]
+  },
+  {
     "id": 3372,
     "title": "Maximize the Number of Target Nodes After Connecting Trees I",
     "title_slug": "maximize-the-number-of-target-nodes-after-connecting-trees-i",

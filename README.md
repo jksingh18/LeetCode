@@ -171,6 +171,7 @@
 | 3174 | [Clear Digits](https://leetcode.com/problems/clear-digits) | Easy | `Simulation` `Stack` `String` |
 | 3264 | [Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i) | Easy | `Array` `Heap (Priority Queue)` `Math` `Simulation` |
 | 3330 | [Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i) | Easy | `String` |
+| 3333 | [Find the Original Typed String II](https://leetcode.com/problems/find-the-original-typed-string-ii) | Hard | `Dynamic Programming` `Prefix Sum` `String` |
 | 3372 | [Maximize the Number of Target Nodes After Connecting Trees I](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i) | Medium | `Breadth-First Search` `Depth-First Search` `Tree` |
 | 3373 | [Maximize the Number of Target Nodes After Connecting Trees II](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii) | Hard | `Breadth-First Search` `Depth-First Search` `Tree` |
 | 3407 | [Substring Matching Pattern](https://leetcode.com/problems/substring-matching-pattern) | Easy | `String` `String Matching` |
