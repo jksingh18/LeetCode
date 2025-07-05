@@ -1233,6 +1233,17 @@
     ]
   },
   {
+    "id": 1394,
+    "title": "Find Lucky Integer in an Array",
+    "title_slug": "find-lucky-integer-in-an-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 1415,
     "title": "The k-th Lexicographical String of All Happy Strings of Length n",
     "title_slug": "the-k-th-lexicographical-string-of-all-happy-strings-of-length-n",
