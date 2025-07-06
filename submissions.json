@@ -1410,6 +1410,17 @@
     ]
   },
   {
+    "id": 1865,
+    "title": "Finding Pairs With a Certain Sum",
+    "title_slug": "finding-pairs-with-a-certain-sum",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Design",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 1910,
     "title": "Remove All Occurrences of a Substring",
     "title_slug": "remove-all-occurrences-of-a-substring",
