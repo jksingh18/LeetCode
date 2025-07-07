@@ -720,6 +720,17 @@
     ]
   },
   {
+    "id": 282,
+    "title": "Expression Add Operators",
+    "title_slug": "expression-add-operators",
+    "difficulty": "Hard",
+    "skills": [
+      "Backtracking",
+      "Math",
+      "String"
+    ]
+  },
+  {
     "id": 287,
     "title": "Find the Duplicate Number",
     "title_slug": "find-the-duplicate-number",
