@@ -231,6 +231,16 @@
     ]
   },
   {
+    "id": 39,
+    "title": "Combination Sum",
+    "title_slug": "combination-sum",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
     "id": 46,
     "title": "Permutations",
     "title_slug": "permutations",
