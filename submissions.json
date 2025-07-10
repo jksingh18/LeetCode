@@ -1968,6 +1968,17 @@
     ]
   },
   {
+    "id": 3440,
+    "title": "Reschedule Meetings for Maximum Free Time II",
+    "title_slug": "reschedule-meetings-for-maximum-free-time-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Enumeration",
+      "Greedy"
+    ]
+  },
+  {
     "id": 3443,
     "title": "Maximum Manhattan Distance After K Changes",
     "title_slug": "maximum-manhattan-distance-after-k-changes",

@@ -184,6 +184,7 @@
 | 3407 | [Substring Matching Pattern](https://leetcode.com/problems/substring-matching-pattern) | Easy | `String` `String Matching` |
 | 3438 | [Find Valid Pair of Adjacent Digits in String](https://leetcode.com/problems/find-valid-pair-of-adjacent-digits-in-string) | Easy |  |
 | 3438 | [Find Valid Pair of Adjacent Digits in String](https://leetcode.com/problems/find-valid-pair-of-adjacent-digits-in-string) | Easy | `Counting` `Hash Table` `String` |
+| 3440 | [Reschedule Meetings for Maximum Free Time II](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-ii) | Medium | `Array` `Enumeration` `Greedy` |
 | 3443 | [Maximum Manhattan Distance After K Changes](https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes) | Medium | `Counting` `Hash Table` `Math` `String` |
 | 3446 | [Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals) | Medium | `Array` `Matrix` `Sorting` |
 | 3452 | [Sum of Good Numbers](https://leetcode.com/problems/sum-of-good-numbers) | Easy |  |
