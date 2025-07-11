@@ -1637,6 +1637,19 @@
     ]
   },
   {
+    "id": 2402,
+    "title": "Meeting Rooms III",
+    "title_slug": "meeting-rooms-iii",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Heap (Priority Queue)",
+      "Simulation",
+      "Sorting"
+    ]
+  },
+  {
     "id": 2415,
     "title": "Reverse Odd Levels of Binary Tree",
     "title_slug": "reverse-odd-levels-of-binary-tree",
