@@ -673,6 +673,17 @@
     ]
   },
   {
+    "id": 217,
+    "title": "Contains Duplicate",
+    "title_slug": "contains-duplicate",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
     "id": 225,
     "title": "Implement Stack using Queues",
     "title_slug": "implement-stack-using-queues",
