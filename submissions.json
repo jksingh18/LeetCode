@@ -1508,6 +1508,15 @@
     ]
   },
   {
+    "id": 1957,
+    "title": "Delete Characters to Make Fancy String",
+    "title_slug": "delete-characters-to-make-fancy-string",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 2071,
     "title": "Maximum Number of Tasks You Can Assign",
     "title_slug": "maximum-number-of-tasks-you-can-assign",
