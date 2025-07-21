@@ -30,6 +30,7 @@
 | 0040 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii) | Medium | `Array` `Backtracking` |
 | 0046 | [Permutations](https://leetcode.com/problems/permutations) | Medium | `Array` `Backtracking` |
 | 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image) | Medium | `Array` `Math` `Matrix` |
+| 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | Medium | `Array` `Hash Table` `Sorting` `String` |
 | 0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | Medium | `Math` `Recursion` |
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Medium | `Array` `Divide and Conquer` `Dynamic Programming` |
 | 0056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | Medium | `Array` `Sorting` |
