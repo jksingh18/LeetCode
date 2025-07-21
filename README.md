@@ -73,6 +73,7 @@
 | 0234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | Easy | `Linked List` `Recursion` `Stack` `Two Pointers` |
 | 0237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | Medium | `Linked List` |
 | 0239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | Hard | `Array` `Heap (Priority Queue)` `Monotonic Queue` `Queue` `Sliding Window` |
+| 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy | `Hash Table` `Sorting` `String` |
 | 0258 | [Add Digits](https://leetcode.com/problems/add-digits) | Easy | `Math` `Number Theory` `Simulation` |
 | 0282 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators) | Hard | `Backtracking` `Math` `String` |
 | 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | Medium | `Array` `Binary Search` `Bit Manipulation` `Two Pointers` |
