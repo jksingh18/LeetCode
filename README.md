@@ -198,3 +198,4 @@
 | 3446 | [Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals) | Medium | `Array` `Matrix` `Sorting` |
 | 3452 | [Sum of Good Numbers](https://leetcode.com/problems/sum-of-good-numbers) | Easy |  |
 | 3452 | [Sum of Good Numbers](https://leetcode.com/problems/sum-of-good-numbers) | Easy | `Array` |
+| 3622 | [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product) | Easy | `Math` |

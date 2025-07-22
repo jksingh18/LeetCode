@@ -2120,5 +2120,14 @@
     "skills": [
       "Array"
     ]
+  },
+  {
+    "id": 3622,
+    "title": "Check Divisibility by Digit Sum and Product",
+    "title_slug": "check-divisibility-by-digit-sum-and-product",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
   }
 ]
