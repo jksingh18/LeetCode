@@ -1411,6 +1411,17 @@
     ]
   },
   {
+    "id": 1695,
+    "title": "Maximum Erasure Value",
+    "title_slug": "maximum-erasure-value",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 1718,
     "title": "Construct the Lexicographically Largest Valid Sequence",
     "title_slug": "construct-the-lexicographically-largest-valid-sequence",
