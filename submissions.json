@@ -1443,6 +1443,17 @@
     ]
   },
   {
+    "id": 1717,
+    "title": "Maximum Score From Removing Substrings",
+    "title_slug": "maximum-score-from-removing-substrings",
+    "difficulty": "Medium",
+    "skills": [
+      "Greedy",
+      "Stack",
+      "String"
+    ]
+  },
+  {
     "id": 1718,
     "title": "Construct the Lexicographically Largest Valid Sequence",
     "title_slug": "construct-the-lexicographically-largest-valid-sequence",
