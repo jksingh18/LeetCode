@@ -1670,6 +1670,18 @@
     ]
   },
   {
+    "id": 2322,
+    "title": "Minimum Score After Removals on a Tree",
+    "title_slug": "minimum-score-after-removals-on-a-tree",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Bit Manipulation",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 2337,
     "title": "Move Pieces to Obtain a String",
     "title_slug": "move-pieces-to-obtain-a-string",
