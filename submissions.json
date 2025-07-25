@@ -2145,6 +2145,17 @@
     ]
   },
   {
+    "id": 3487,
+    "title": "Maximum Unique Subarray Sum After Deletion",
+    "title_slug": "maximum-unique-subarray-sum-after-deletion",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 3622,
     "title": "Check Divisibility by Digit Sum and Product",
     "title_slug": "check-divisibility-by-digit-sum-and-product",
