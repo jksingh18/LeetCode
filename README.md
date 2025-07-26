@@ -200,5 +200,6 @@
 | 3446 | [Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals) | Medium | `Array` `Matrix` `Sorting` |
 | 3452 | [Sum of Good Numbers](https://leetcode.com/problems/sum-of-good-numbers) | Easy |  |
 | 3452 | [Sum of Good Numbers](https://leetcode.com/problems/sum-of-good-numbers) | Easy | `Array` |
+| 3480 | [Maximize Subarrays After Removing One Conflicting Pair](https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair) | Hard | `Array` `Enumeration` `Prefix Sum` `Segment Tree` |
 | 3487 | [Maximum Unique Subarray Sum After Deletion](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion) | Easy | `Array` `Greedy` `Hash Table` |
 | 3622 | [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product) | Easy | `Math` |
