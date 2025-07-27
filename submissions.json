@@ -1649,6 +1649,15 @@
     ]
   },
   {
+    "id": 2210,
+    "title": "Count Hills and Valleys in an Array",
+    "title_slug": "count-hills-and-valleys-in-an-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 2270,
     "title": "Number of Ways to Split Array",
     "title_slug": "number-of-ways-to-split-array",
