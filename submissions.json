@@ -1610,6 +1610,18 @@
     ]
   },
   {
+    "id": 2044,
+    "title": "Count Number of Maximum Bitwise-OR Subsets",
+    "title_slug": "count-number-of-maximum-bitwise-or-subsets",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation",
+      "Enumeration"
+    ]
+  },
+  {
     "id": 2071,
     "title": "Maximum Number of Tasks You Can Assign",
     "title_slug": "maximum-number-of-tasks-you-can-assign",
