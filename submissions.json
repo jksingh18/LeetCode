@@ -1785,6 +1785,18 @@
     ]
   },
   {
+    "id": 2411,
+    "title": "Smallest Subarrays With Maximum Bitwise OR",
+    "title_slug": "smallest-subarrays-with-maximum-bitwise-or",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Bit Manipulation",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 2415,
     "title": "Reverse Odd Levels of Binary Tree",
     "title_slug": "reverse-odd-levels-of-binary-tree",
