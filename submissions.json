@@ -347,6 +347,17 @@
     ]
   },
   {
+    "id": 78,
+    "title": "Subsets",
+    "title_slug": "subsets",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
     "id": 80,
     "title": "Remove Duplicates from Sorted Array II",
     "title_slug": "remove-duplicates-from-sorted-array-ii",
