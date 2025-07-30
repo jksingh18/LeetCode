@@ -1820,6 +1820,17 @@
     ]
   },
   {
+    "id": 2419,
+    "title": "Longest Subarray With Maximum Bitwise AND",
+    "title_slug": "longest-subarray-with-maximum-bitwise-and",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Bit Manipulation",
+      "Brainteaser"
+    ]
+  },
+  {
     "id": 2493,
     "title": "Divide Nodes Into the Maximum Number of Groups",
     "title_slug": "divide-nodes-into-the-maximum-number-of-groups",
