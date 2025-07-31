@@ -1168,6 +1168,17 @@
     ]
   },
   {
+    "id": 898,
+    "title": "Bitwise ORs of Subarrays",
+    "title_slug": "bitwise-ors-of-subarrays",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Bit Manipulation",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 912,
     "title": "Sort an Array",
     "title_slug": "sort-an-array",
