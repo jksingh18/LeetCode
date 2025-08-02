@@ -1887,6 +1887,18 @@
     ]
   },
   {
+    "id": 2561,
+    "title": "Rearranging Fruits",
+    "title_slug": "rearranging-fruits",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Hash Table",
+      "Sort"
+    ]
+  },
+  {
     "id": 2593,
     "title": "Find Score of an Array After Marking All Elements",
     "title_slug": "find-score-of-an-array-after-marking-all-elements",
