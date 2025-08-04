@@ -1179,6 +1179,17 @@
     ]
   },
   {
+    "id": 904,
+    "title": "Fruit Into Baskets",
+    "title_slug": "fruit-into-baskets",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 912,
     "title": "Sort an Array",
     "title_slug": "sort-an-array",
