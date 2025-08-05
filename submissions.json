@@ -2255,6 +2255,19 @@
     ]
   },
   {
+    "id": 3477,
+    "title": "Fruits Into Baskets II",
+    "title_slug": "fruits-into-baskets-ii",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Ordered Set",
+      "Segment Tree",
+      "Simulation"
+    ]
+  },
+  {
     "id": 3480,
     "title": "Maximize Subarrays After Removing One Conflicting Pair",
     "title_slug": "maximize-subarrays-after-removing-one-conflicting-pair",
