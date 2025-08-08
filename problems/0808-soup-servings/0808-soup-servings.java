@@ -1,26 +1,34 @@
 class Solution {
-    private double[][] f = new double[200][200];
-
     public double soupServings(int n) {
-        return n > 4800 ? 1 : dfs((n + 24) / 25, (n + 24) / 25);
+        if (n > 4800) return 1.0; // For large n, probability approaches 1
+
+        // Scale down n to units of 25 mL, rounding up for partial servings
+        int m = (n + 24) / 25;
+        // Memoization table; Java supports less elegant syntax than Python, so use a Map or a 2D array
+        double[][] dp = new double[m + 1][m + 1];
+
+        // Fill dp with -1 (uncomputed)
+        for (int i = 0; i <= m; ++i)
+            java.util.Arrays.fill(dp[i], -1.0);
+
+        return helper(m, m, dp);
     }
 
-    private double dfs(int i, int j) {
-        if (i <= 0 && j <= 0) {
-            return 0.5;
-        }
-        if (i <= 0) {
-            return 1.0;
-        }
-        if (j <= 0) {
-            return 0;
-        }
-        if (f[i][j] > 0) {
-            return f[i][j];
-        }
-        double ans
-            = 0.25 * (dfs(i - 4, j) + dfs(i - 3, j - 1) + dfs(i - 2, j - 2) + dfs(i - 1, j - 3));
-        f[i][j] = ans;
-        return ans;
+    // Recursive helper
+    private double helper(int a, int b, double[][] dp) {
+        if (a <= 0 && b <= 0) return 0.5;
+        if (a <= 0) return 1.0;
+        if (b <= 0) return 0.0;
+        if (dp[a][b] != -1.0) return dp[a][b];
+
+        // Serving amounts converted to units (4,0), (3,1), (2,2), (1,3)
+        dp[a][b] = 0.25 * (
+            helper(a - 4, b, dp)
+            + helper(a - 3, b - 1, dp)
+            + helper(a - 2, b - 2, dp)
+            + helper(a - 1, b - 3, dp)
+        );
+
+        return dp[a][b];
     }
 }
