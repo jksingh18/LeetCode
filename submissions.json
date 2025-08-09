@@ -739,6 +739,17 @@
     ]
   },
   {
+    "id": 231,
+    "title": "Power of Two",
+    "title_slug": "power-of-two",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation",
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
     "id": 232,
     "title": "Implement Queue using Stacks",
     "title_slug": "implement-queue-using-stacks",
