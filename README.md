@@ -186,6 +186,7 @@
 | 2698 | [Find the Punishment Number of an Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer) | Medium | `Backtracking` `Math` |
 | 2762 | [Continuous Subarrays](https://leetcode.com/problems/continuous-subarrays) | Medium | `Array` `Heap (Priority Queue)` `Monotonic Queue` `Ordered Set` `Queue` `Sliding Window` |
 | 2779 | [Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation) | Medium | `Array` `Binary Search` `Sliding Window` `Sorting` |
+| 2787 | [Ways to Express an Integer as Sum of Powers](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers) | Medium | `Dynamic Programming` |
 | 2900 | [Longest Unequal Adjacent Groups Subsequence I](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i) | Easy | `Array` `Dynamic Programming` `Greedy` `String` |
 | 2929 | [Distribute Candies Among Children II](https://leetcode.com/problems/distribute-candies-among-children-ii) | Medium | `Combinatorics` `Enumeration` `Math` |
 | 2948 | [Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements) | Medium | `Array` `Sorting` `Union Find` |

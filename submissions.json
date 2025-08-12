@@ -2004,6 +2004,15 @@
     ]
   },
   {
+    "id": 2787,
+    "title": "Ways to Express an Integer as Sum of Powers",
+    "title_slug": "ways-to-express-an-integer-as-sum-of-powers",
+    "difficulty": "Medium",
+    "skills": [
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 2900,
     "title": "Longest Unequal Adjacent Groups Subsequence I",
     "title_slug": "longest-unequal-adjacent-groups-subsequence-i",
