@@ -840,6 +840,16 @@
     ]
   },
   {
+    "id": 326,
+    "title": "Power of Three",
+    "title_slug": "power-of-three",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
     "id": 344,
     "title": "Reverse String",
     "title_slug": "reverse-string",
