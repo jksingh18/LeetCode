@@ -1072,6 +1072,17 @@
     ]
   },
   {
+    "id": 679,
+    "title": "24 Game",
+    "title_slug": "24-game",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Backtracking",
+      "Math"
+    ]
+  },
+  {
     "id": 684,
     "title": "Redundant Connection",
     "title_slug": "redundant-connection",

@@ -103,6 +103,7 @@
 | 0627 | [Swap Salary](https://leetcode.com/problems/swap-salary) | Easy | `Database` |
 | 0627 | [Swap Sex of Employees](https://leetcode.com/problems/swap-sex-of-employees) | Easy | `Database` |
 | 0637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree) | Easy | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
+| 0679 | [24 Game](https://leetcode.com/problems/24-game) | Hard | `Array` `Backtracking` `Math` |
 | 0684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection) | Medium | `Breadth-First Search` `Depth-First Search` `Graph` `Union Find` |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | `Array` `Binary Search` |
 | 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill) | Easy | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` |
