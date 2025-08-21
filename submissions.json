@@ -1487,6 +1487,19 @@
     ]
   },
   {
+    "id": 1504,
+    "title": "Count Submatrices With All Ones",
+    "title_slug": "count-submatrices-with-all-ones",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix",
+      "Monotonic Stack",
+      "Stack"
+    ]
+  },
+  {
     "id": 1672,
     "title": "Richest Customer Wealth",
     "title_slug": "richest-customer-wealth",
