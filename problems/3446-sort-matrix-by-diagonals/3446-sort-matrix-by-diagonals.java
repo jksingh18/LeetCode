@@ -1,48 +1,30 @@
-import java.util.*;
-
 class Solution {
+
     public int[][] sortMatrix(int[][] grid) {
         int n = grid.length;
 
-        // Step 1: Sort bottom-left diagonals (including middle) in non-increasing (descending) order
-        for (int row = n - 2; row >= 0; row--) { 
-            sortDiagonal(grid, row, 0, false);  // Start from (row, 0), sort in descending order
+        for (int i = 0; i < n; i++) {
+            List<Integer> tmp = new ArrayList<>();
+            for (int j = 0; i + j < n; j++) {
+                tmp.add(grid[i + j][j]);
+            }
+            tmp.sort(Collections.reverseOrder());
+            for (int j = 0; i + j < n; j++) {
+                grid[i + j][j] = tmp.get(j);
+            }
         }
 
-        // Step 2: Sort top-right diagonals in non-decreasing (ascending) order
-        for (int col = 1; col < n; col++) { 
-            sortDiagonal(grid, 0, col, true);  // Start from (0, col), sort in ascending order
+        for (int j = 1; j < n; j++) {
+            List<Integer> tmp = new ArrayList<>();
+            for (int i = 0; j + i < n; i++) {
+                tmp.add(grid[i][j + i]);
+            }
+            Collections.sort(tmp);
+            for (int i = 0; j + i < n; i++) {
+                grid[i][j + i] = tmp.get(i);
+            }
         }
 
         return grid;
-    }
-
-    private void sortDiagonal(int[][] grid, int row, int col, boolean ascending) {
-        int n = grid.length;
-        List<Integer> diagonalElements = new ArrayList<>();
-
-        // Extract the diagonal elements
-        int i = row, j = col;
-        while (i < n && j < n) {
-            diagonalElements.add(grid[i][j]);
-            i++;
-            j++;
-        }
-
-        // Sort the extracted diagonal
-        if (ascending) {
-            Collections.sort(diagonalElements);  // Sort in increasing order
-        } else {
-            diagonalElements.sort(Collections.reverseOrder());  // Sort in decreasing order
-        }
-
-        // Put the sorted elements back into the grid
-        i = row;
-        j = col;
-        for (int value : diagonalElements) {
-            grid[i][j] = value;
-            i++;
-            j++;
-        }
     }
 }
