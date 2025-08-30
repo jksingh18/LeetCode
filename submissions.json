@@ -219,6 +219,17 @@
     ]
   },
   {
+    "id": 36,
+    "title": "Valid Sudoku",
+    "title_slug": "valid-sudoku",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
     "id": 37,
     "title": "Sudoku Solver",
     "title_slug": "sudoku-solver",

@@ -25,6 +25,7 @@
 | 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | Medium | `Array` `Binary Search` |
 | 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | Medium | `Array` `Binary Search` |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | Easy | `Array` `Binary Search` |
+| 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | Medium | `Array` `Hash Table` `Matrix` |
 | 0037 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) | Hard | `Array` `Backtracking` `Hash Table` `Matrix` |
 | 0039 | [Combination Sum](https://leetcode.com/problems/combination-sum) | Medium | `Array` `Backtracking` |
 | 0040 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii) | Medium | `Array` `Backtracking` |
