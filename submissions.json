@@ -1769,6 +1769,17 @@
     ]
   },
   {
+    "id": 2133,
+    "title": "Check if Every Row and Column Contains All Numbers",
+    "title_slug": "check-if-every-row-and-column-contains-all-numbers",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
     "id": 2182,
     "title": "Construct String With Repeat Limit",
     "title_slug": "construct-string-with-repeat-limit",
