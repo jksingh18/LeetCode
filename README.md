@@ -133,6 +133,7 @@
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) | Medium | `Dynamic Programming` `String` |
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i) | Easy | `Database` |
 | 1267 | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate) | Medium | `Array` `Breadth-First Search` `Counting` `Depth-First Search` `Matrix` `Union Find` |
+| 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers) | Easy | `Math` |
 | 1352 | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers) | Medium | `Array` `Data Stream` `Design` `Math` `Prefix Sum` |
 | 1353 | [Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended) | Medium | `Array` `Greedy` `Heap (Priority Queue)` `Sorting` |
 | 1394 | [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array) | Easy | `Array` `Counting` `Hash Table` |
