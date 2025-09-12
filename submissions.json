@@ -2080,6 +2080,16 @@
     ]
   },
   {
+    "id": 2785,
+    "title": "Sort Vowels in a String",
+    "title_slug": "sort-vowels-in-a-string",
+    "difficulty": "Medium",
+    "skills": [
+      "Sorting",
+      "String"
+    ]
+  },
+  {
     "id": 2787,
     "title": "Ways to Express an Integer as Sum of Powers",
     "title_slug": "ways-to-express-an-integer-as-sum-of-powers",
