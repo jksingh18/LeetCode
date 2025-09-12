@@ -205,6 +205,7 @@
 | 3152 | [Special Array II](https://leetcode.com/problems/special-array-ii) | Medium | `Array` `Binary Search` `Prefix Sum` |
 | 3160 | [Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls) | Medium | `Array` `Hash Table` `Simulation` |
 | 3174 | [Clear Digits](https://leetcode.com/problems/clear-digits) | Easy | `Simulation` `Stack` `String` |
+| 3227 | [Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string) | Medium | `Brainteaser` `Game Theory` `Math` `String` |
 | 3264 | [Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i) | Easy | `Array` `Heap (Priority Queue)` `Math` `Simulation` |
 | 3304 | [Find the K-th Character in String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i) | Easy | `Bit Manipulation` `Math` `Recursion` `Simulation` |
 | 3330 | [Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i) | Easy | `String` |

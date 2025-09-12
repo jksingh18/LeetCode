@@ -2207,6 +2207,18 @@
     ]
   },
   {
+    "id": 3227,
+    "title": "Vowels Game in a String",
+    "title_slug": "vowels-game-in-a-string",
+    "difficulty": "Medium",
+    "skills": [
+      "Brainteaser",
+      "Game Theory",
+      "Math",
+      "String"
+    ]
+  },
+  {
     "id": 3264,
     "title": "Final Array State After K Multiplication Operations I",
     "title_slug": "final-array-state-after-k-multiplication-operations-i",
