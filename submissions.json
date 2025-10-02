@@ -1540,6 +1540,16 @@
     ]
   },
   {
+    "id": 1518,
+    "title": "Water Bottles",
+    "title_slug": "water-bottles",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "Simulation"
+    ]
+  },
+  {
     "id": 1672,
     "title": "Richest Customer Wealth",
     "title_slug": "richest-customer-wealth",
