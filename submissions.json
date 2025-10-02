@@ -2177,6 +2177,16 @@
     ]
   },
   {
+    "id": 3100,
+    "title": "Water Bottles II",
+    "title_slug": "water-bottles-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Math",
+      "Simulation"
+    ]
+  },
+  {
     "id": 3105,
     "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
     "title_slug": "longest-strictly-increasing-or-strictly-decreasing-subarray",
