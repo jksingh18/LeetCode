@@ -918,6 +918,18 @@
     ]
   },
   {
+    "id": 407,
+    "title": "Trapping Rain Water II",
+    "title_slug": "trapping-rain-water-ii",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Breadth-First Search",
+      "Heap (Priority Queue)",
+      "Matrix"
+    ]
+  },
+  {
     "id": 429,
     "title": "N-ary Tree Level Order Traversal",
     "title_slug": "n-ary-tree-level-order-traversal",
