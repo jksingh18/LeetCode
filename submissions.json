@@ -1863,6 +1863,18 @@
     ]
   },
   {
+    "id": 2300,
+    "title": "Successful Pairs of Spells and Potions",
+    "title_slug": "successful-pairs-of-spells-and-potions",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 2322,
     "title": "Minimum Score After Removals on a Tree",
     "title_slug": "minimum-score-after-removals-on-a-tree",
