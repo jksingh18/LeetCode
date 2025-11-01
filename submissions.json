@@ -2281,6 +2281,17 @@
     ]
   },
   {
+    "id": 3217,
+    "title": "Delete Nodes From Linked List Present in Array",
+    "title_slug": "delete-nodes-from-linked-list-present-in-array",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Linked List"
+    ]
+  },
+  {
     "id": 3227,
     "title": "Vowels Game in a String",
     "title_slug": "vowels-game-in-a-string",
