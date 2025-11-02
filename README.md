@@ -173,6 +173,7 @@
 | 2133 | [Check if Every Row and Column Contains All Numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers) | Easy | `Array` `Hash Table` `Matrix` |
 | 2182 | [Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit) | Medium | `Counting` `Greedy` `Hash Table` `Heap (Priority Queue)` `String` |
 | 2210 | [Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array) | Easy | `Array` |
+| 2257 | [Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid) | Medium | `Array` `Matrix` `Simulation` |
 | 2270 | [Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array) | Medium | `Array` `Prefix Sum` |
 | 2294 | [Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k) | Medium | `Array` `Greedy` `Sorting` |
 | 2300 | [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions) | Medium | `Array` `Binary Search` `Sorting` `Two Pointers` |

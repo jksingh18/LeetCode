@@ -1842,6 +1842,17 @@
     ]
   },
   {
+    "id": 2257,
+    "title": "Count Unguarded Cells in the Grid",
+    "title_slug": "count-unguarded-cells-in-the-grid",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
     "id": 2270,
     "title": "Number of Ways to Split Array",
     "title_slug": "number-of-ways-to-split-array",
