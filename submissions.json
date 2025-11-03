@@ -1562,6 +1562,18 @@
     ]
   },
   {
+    "id": 1578,
+    "title": "Minimum Time to Make Rope Colorful",
+    "title_slug": "minimum-time-to-make-rope-colorful",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "String"
+    ]
+  },
+  {
     "id": 1672,
     "title": "Richest Customer Wealth",
     "title_slug": "richest-customer-wealth",
