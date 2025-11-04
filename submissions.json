@@ -2351,6 +2351,18 @@
     ]
   },
   {
+    "id": 3318,
+    "title": "Find X-Sum of All K-Long Subarrays I",
+    "title_slug": "find-x-sum-of-all-k-long-subarrays-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Heap (Priority Queue)",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 3330,
     "title": "Find the Original Typed String I",
     "title_slug": "find-the-original-typed-string-i",
