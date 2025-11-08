@@ -89,6 +89,7 @@
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | Medium | `Array` `Bucket Sort` `Counting` `Divide and Conquer` `Hash Table` `Heap (Priority Queue)` `Quickselect` `Sorting` |
 | 0386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers) | Medium | `Depth-First Search` `Trie` |
 | 0389 | [Find the Difference](https://leetcode.com/problems/find-the-difference) | Easy | `Bit Manipulation` `Hash Table` `Sorting` `String` |
+| 0399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division) | Medium | `Array` `Breadth-First Search` `Depth-First Search` `Graph Theory` `Shortest Path` `String` `Union-Find` |
 | 0407 | [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii) | Hard | `Array` `Breadth-First Search` `Heap (Priority Queue)` `Matrix` |
 | 0429 | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal) | Medium | `Breadth-First Search` `Tree` |
 | 0438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string) | Medium | `Hash Table` `Sliding Window` `String` |
