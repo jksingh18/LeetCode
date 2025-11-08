@@ -1589,6 +1589,19 @@
     ]
   },
   {
+    "id": 1611,
+    "title": "Minimum One Bit Operations to Make Integers Zero",
+    "title_slug": "minimum-one-bit-operations-to-make-integers-zero",
+    "difficulty": "Hard",
+    "skills": [
+      "Bit Manipulation",
+      "Dynamic Programming",
+      "Math",
+      "Memoization",
+      "Recursion"
+    ]
+  },
+  {
     "id": 1672,
     "title": "Richest Customer Wealth",
     "title_slug": "richest-customer-wealth",

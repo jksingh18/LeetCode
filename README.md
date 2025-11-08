@@ -149,6 +149,7 @@
 | 1504 | [Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones) | Medium | `Array` `Dynamic Programming` `Matrix` `Monotonic Stack` `Stack` |
 | 1518 | [Water Bottles](https://leetcode.com/problems/water-bottles) | Easy | `Math` `Simulation` |
 | 1578 | [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful) | Medium | `Array` `Dynamic Programming` `Greedy` `String` |
+| 1611 | [Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero) | Hard | `Bit Manipulation` `Dynamic Programming` `Math` `Memoization` `Recursion` |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | Easy | `Array` `Matrix` |
 | 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets) | Easy | `Database` |
 | 1695 | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value) | Medium | `Array` `Hash Table` `Sliding Window` |
