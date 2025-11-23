@@ -1,35 +1,29 @@
-import java.util.Stack;
-
 class Solution {
     public int[] asteroidCollision(int[] asteroids) {
-        Stack<Integer> stack = new Stack<>();
-
-        for (int asteroid : asteroids) {
-            // Handle collisions
-            while (!stack.isEmpty() && asteroid < 0 && stack.peek() > 0) {
+        Deque<Integer> stack = new ArrayDeque<>();
+        for(int asteroid: asteroids){
+            while(!stack.isEmpty() && asteroid < 0 && stack.peek() > 0){
                 int top = stack.pop();
-                if (Math.abs(top) > Math.abs(asteroid)) {
-                    // Top asteroid survives
+                if(Math.abs(top) > Math.abs(asteroid)){
+                    //top survives;
                     stack.push(top);
-                    asteroid = 0; // Current asteroid explodes
-                } else if (Math.abs(top) == Math.abs(asteroid)) {
-                    // Both asteroids explode
+                    asteroid = 0; //the current asteroid destroyed
+                } else if(Math.abs(top) == Math.abs(asteroid)){
+                    //both of them destroyed
                     asteroid = 0;
                 }
             }
 
-            // Push the asteroid if it survives
-            if (asteroid != 0) {
+            if(asteroid != 0){
                 stack.push(asteroid);
             }
         }
 
-        // Convert stack to array
+        //convert stack into array;
         int[] result = new int[stack.size()];
-        for (int i = stack.size() - 1; i >= 0; i--) {
+        for(int i=stack.size()-1; i>=0; i--){
             result[i] = stack.pop();
         }
-
         return result;
     }
 }
