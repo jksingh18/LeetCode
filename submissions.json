@@ -1001,6 +1001,17 @@
     ]
   },
   {
+    "id": 503,
+    "title": "Next Greater Element II",
+    "title_slug": "next-greater-element-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Monotonic Stack",
+      "Stack"
+    ]
+  },
+  {
     "id": 525,
     "title": "Contiguous Array",
     "title_slug": "contiguous-array",
