@@ -2600,5 +2600,16 @@
     "skills": [
       "Math"
     ]
+  },
+  {
+    "id": 3650,
+    "title": "Minimum Cost Path with Edge Reversals",
+    "title_slug": "minimum-cost-path-with-edge-reversals",
+    "difficulty": "Medium",
+    "skills": [
+      "Graph Theory",
+      "Heap (Priority Queue)",
+      "Shortest Path"
+    ]
   }
 ]
