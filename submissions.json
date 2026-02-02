@@ -1746,6 +1746,17 @@
     ]
   },
   {
+    "id": 1854,
+    "title": "Maximum Population Year",
+    "title_slug": "maximum-population-year",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 1865,
     "title": "Finding Pairs With a Certain Sum",
     "title_slug": "finding-pairs-with-a-certain-sum",
