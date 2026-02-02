@@ -210,6 +210,7 @@
 | 2948 | [Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements) | Medium | `Array` `Sorting` `Union Find` |
 | 2981 | [Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i) | Medium | `Binary Search` `Counting` `Hash Table` `Sliding Window` `String` |
 | 3010 | [Divide an Array Into Subarrays With Minimum Cost I](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i) | Easy | `Array` `Enumeration` `Sorting` |
+| 3013 | [Divide an Array Into Subarrays With Minimum Cost II](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii) | Hard | `Array` `Hash Table` `Heap (Priority Queue)` `Sliding Window` |
 | 3066 | [Minimum Operations to Exceed Threshold Value II](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii) | Medium | `Array` `Heap (Priority Queue)` `Simulation` |
 | 3100 | [Water Bottles II](https://leetcode.com/problems/water-bottles-ii) | Medium | `Math` `Simulation` |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray) | Easy | `Array` |
