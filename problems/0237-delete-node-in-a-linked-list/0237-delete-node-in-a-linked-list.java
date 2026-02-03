@@ -8,7 +8,14 @@
  */
 class Solution {
     public void deleteNode(ListNode node) {
-        node.val = node.next.val; //Save the deletion node value
-        node.next = node.next.next; //Traverse forward ignoring the deletion node
+        ListNode prev = null;
+
+        while(node != null && node.next != null) {
+            node.val = node.next.val;
+            prev = node;
+            node = node.next;
+        }
+
+        if(prev != null) prev.next = null;
     }
 }
