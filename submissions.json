@@ -1408,6 +1408,19 @@
     ]
   },
   {
+    "id": 1094,
+    "title": "Car Pooling",
+    "title_slug": "car-pooling",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Heap (Priority Queue)",
+      "Prefix Sum",
+      "Simulation",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1114,
     "title": "Print in Order",
     "title_slug": "print-in-order",
