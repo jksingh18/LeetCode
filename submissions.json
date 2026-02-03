@@ -1177,6 +1177,19 @@
     ]
   },
   {
+    "id": 732,
+    "title": "My Calendar III",
+    "title_slug": "my-calendar-iii",
+    "difficulty": "Hard",
+    "skills": [
+      "Binary Search",
+      "Design",
+      "Ordered Set",
+      "Prefix Sum",
+      "Segment Tree"
+    ]
+  },
+  {
     "id": 733,
     "title": "Flood Fill",
     "title_slug": "flood-fill",
