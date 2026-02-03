@@ -2676,6 +2676,15 @@
     ]
   },
   {
+    "id": 3637,
+    "title": "Trionic Array I",
+    "title_slug": "trionic-array-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 3650,
     "title": "Minimum Cost Path with Edge Reversals",
     "title_slug": "minimum-cost-path-with-edge-reversals",
