@@ -250,5 +250,6 @@
 | 3541 | [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant) | Easy | `Counting` `Hash Table` `String` |
 | 3622 | [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product) | Easy | `Math` |
 | 3637 | [Trionic Array I](https://leetcode.com/problems/trionic-array-i) | Easy | `Array` |
+| 3640 | [Trionic Array II](https://leetcode.com/problems/trionic-array-ii) | Hard | `Array` `Dynamic Programming` |
 | 3650 | [Minimum Cost Path with Edge Reversals](https://leetcode.com/problems/minimum-cost-path-with-edge-reversals) | Medium | `Graph Theory` `Heap (Priority Queue)` `Shortest Path` |
 | 3651 | [Minimum Cost Path with Teleportations](https://leetcode.com/problems/minimum-cost-path-with-teleportations) | Hard | `Array` `Dynamic Programming` `Matrix` |

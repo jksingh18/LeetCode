@@ -2708,6 +2708,16 @@
     ]
   },
   {
+    "id": 3640,
+    "title": "Trionic Array II",
+    "title_slug": "trionic-array-ii",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 3650,
     "title": "Minimum Cost Path with Edge Reversals",
     "title_slug": "minimum-cost-path-with-edge-reversals",
