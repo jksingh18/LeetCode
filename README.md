@@ -111,6 +111,7 @@
 | 0679 | [24 Game](https://leetcode.com/problems/24-game) | Hard | `Array` `Backtracking` `Math` |
 | 0684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection) | Medium | `Breadth-First Search` `Depth-First Search` `Graph` `Union Find` |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | `Array` `Binary Search` |
+| 0729 | [My Calendar I](https://leetcode.com/problems/my-calendar-i) | Medium | `Array` `Binary Search` `Design` `Ordered Set` `Segment Tree` |
 | 0731 | [My Calendar II](https://leetcode.com/problems/my-calendar-ii) | Medium | `Array` `Binary Search` `Design` `Ordered Set` `Prefix Sum` `Segment Tree` |
 | 0732 | [My Calendar III](https://leetcode.com/problems/my-calendar-iii) | Hard | `Binary Search` `Design` `Ordered Set` `Prefix Sum` `Segment Tree` |
 | 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill) | Easy | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` |

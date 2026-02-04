@@ -1163,6 +1163,19 @@
     ]
   },
   {
+    "id": 729,
+    "title": "My Calendar I",
+    "title_slug": "my-calendar-i",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Ordered Set",
+      "Segment Tree"
+    ]
+  },
+  {
     "id": 731,
     "title": "My Calendar II",
     "title_slug": "my-calendar-ii",
