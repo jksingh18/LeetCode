@@ -235,6 +235,7 @@
 | 3333 | [Find the Original Typed String II](https://leetcode.com/problems/find-the-original-typed-string-ii) | Hard | `Dynamic Programming` `Prefix Sum` `String` |
 | 3372 | [Maximize the Number of Target Nodes After Connecting Trees I](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i) | Medium | `Breadth-First Search` `Depth-First Search` `Tree` |
 | 3373 | [Maximize the Number of Target Nodes After Connecting Trees II](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii) | Hard | `Breadth-First Search` `Depth-First Search` `Tree` |
+| 3379 | [Transformed Array](https://leetcode.com/problems/transformed-array) | Easy | `Array` `Simulation` |
 | 3407 | [Substring Matching Pattern](https://leetcode.com/problems/substring-matching-pattern) | Easy | `String` `String Matching` |
 | 3438 | [Find Valid Pair of Adjacent Digits in String](https://leetcode.com/problems/find-valid-pair-of-adjacent-digits-in-string) | Easy |  |
 | 3438 | [Find Valid Pair of Adjacent Digits in String](https://leetcode.com/problems/find-valid-pair-of-adjacent-digits-in-string) | Easy | `Counting` `Hash Table` `String` |

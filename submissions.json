@@ -2553,6 +2553,16 @@
     ]
   },
   {
+    "id": 3379,
+    "title": "Transformed Array",
+    "title_slug": "transformed-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Simulation"
+    ]
+  },
+  {
     "id": 3407,
     "title": "Substring Matching Pattern",
     "title_slug": "substring-matching-pattern",
